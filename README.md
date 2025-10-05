@@ -9,8 +9,7 @@
 
 
 # [WIP] Nerd Nest
-With extensive experience as a SysAdmin, Software Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
-
+NerdNest is a comprehensive, open-source repository that provides tutorials, guides, and practical examples across key IT domains. The mission is to empower learners with the knowledge and skills needed to succeed in IT, from technical expertise to professional soft skills. Explore, learn, and contribute to build your IT nest!
 
 # Table of Contents
 
@@ -26,28 +25,21 @@ With extensive experience as a SysAdmin, Software Engineer, Site Reliability Eng
   - [Development](#development)
   - [Tools/Applications](#tools/applications)
   - [AI & ML](ai-&-ml)
+
+
   - [Job Roles](#job-roles)
   - [Responsibilities](#responsibilities)
-  - [Soft-Skills](#soft-skills)
+
+
+- [Soft-Skills](#soft-skills)
+    -     
+
+- [Documentation](#documentation)
+  - [Project Docs](#)  
+
+
   - [Book Recommendations](#book-recommendations)
   - [Other Useful Resources](#other-useful-resources)
-
-#1. [Linux](#Linux)
-#2. [Networking](#networking)
-#3. [Security](#security)
-#4. [Virtualisation](#virtualisation)
-#5. [Cloud](#cloud)
-#6. [Git](#git)
-#7. [Agile](#agile)
-#8. [Automation](#automation)
-#9. [Development](#development)
-#10. [Tools/Applications](#tools/applications)
-#11. [AI & ML](ai-&-ml)
-#12. [Job Roles](#job-roles)
-#13. [Responsibilities](#responsibilities)
-#14. [Soft-Skills](#soft-skills)
-#15. [Book Recommendations](#book-recommendations)
-#16. [Other Useful Resources](#other-useful-resources)
 
 # Topics
 
