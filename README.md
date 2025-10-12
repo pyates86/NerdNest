@@ -63,7 +63,7 @@ Software engineers learn networking to build and maintain web apps, cloud servic
 
  | Topic         | Description   |
  | :------------ | :-----------: |
- | [Networking Fundamentals](resources/networking_fundamentals.md) | An overview  of networking fundamentals and the main concepts. |
+ | [Networking Fundamentals](topics/networking/networking_fundamentals.md) | An overview  of networking fundamentals and the main concepts. |
  | [Understanding Ports and Protocols](resources/understanding_ports_and_protocols.md) | Understanding the fundamental concepts in computer networking that enable devices to communicate over a network |
  | [Ports and Protocols - examples](examples/ports_and_protocols.md) | A list of the top network ports and their associated protocols, along with brief explanations of their uses. |
  | [Understanding TCP and UDP](resources/tcp_and_udp.md) | Description of TCP and UDP which define how data is transmitted between devices over a network, handling the packaging, delivery, and integrity of data. |
