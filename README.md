@@ -73,7 +73,6 @@ Software engineers learn networking to build and maintain web apps, cloud servic
  | [Common Networking tools](topics/networking/networking_tools.md) | A list of top Linux networking tools which are widely used for network administration, monitoring, troubleshooting, and security tasks. |
  | [Networking Tools and Troubleshooting](topics/networking/networking_tools_troubleshooting.md) | Introduces essential command-line and graphical tools for inspecting network behavior, from basic connectivity checks to advanced packet analysis. |
  | [Toubleshooting vs debugging](topics/networking/networking_troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
- | [Networking Concepts](resources/networking_concepts.md) |  |
 
 ## Security 
 
