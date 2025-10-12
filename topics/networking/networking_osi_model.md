@@ -6,7 +6,7 @@ Below, I’ll explore each of the seven OSI layers, explaining their functions, 
 
 ---
 
-![Screenshot of OSI Model.](https://github.com/pyates86/start_engineering/blob/main/images/osi_model.png)
+![Screenshot of OSI Model.](https://github.com/pyates86/NerdNest/blob/main/images/osi_model.png)
 
 ---
 
