@@ -68,9 +68,11 @@ Software engineers learn networking to build and maintain web apps, cloud servic
  | [Protocols: The Language of Networks](topics/networking/networking_protocols.md) | Understanding the fundamental concepts in computer networking that enable devices to communicate over a network |
  | [Understanding TCP and UDP](topics/networking/networking_tcp_udp.md) | Description of TCP and UDP which define how data is transmitted between devices over a network, handling the packaging, delivery, and integrity of data. |
  | [Ports and Network Communication](topics/networking/networking_ports.md) | Understanding the fundamental concepts in computer networking that enable devices to communicate over a network |
- | [Ports and Protocols - examples](examples/ports_and_protocols.md) | A list of the top network ports and their associated protocols, along with brief explanations of their uses. |
- | [Networking tools](examples/basic_linux_networking_tools.md) | A list of top Linux networking tools which are widely used for network administration, monitoring, troubleshooting, and security tasks. |
- | [Toubleshooting and debugging](resources/troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
+ | [IP Addressing and Subnetting](topics/networking/networking_ipaddr_subnet.md) | Understanding how to calculate subnets, address allocation, and differences between public and private addresses |
+ | [Networking Devices and Infrastructure](topics/networking/networking_devices_infrastructure.md) | Exploring key hardware components like routers, switches, access points, and firewalls, while delving into their operational layers, segmentation techniques, and wireless capabilities |
+ | [Common Networking tools](topics/networking/networking_tools.md) | A list of top Linux networking tools which are widely used for network administration, monitoring, troubleshooting, and security tasks. |
+ | [Networking Tools and Troubleshooting](topics/networking/networking_tools_troubleshooting.md) | Introduces essential command-line and graphical tools for inspecting network behavior, from basic connectivity checks to advanced packet analysis. |
+ | [Toubleshooting vs debugging](topics/networking/networking_troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
  | [Networking Concepts](resources/networking_concepts.md) |  |
 
 ## Security 
