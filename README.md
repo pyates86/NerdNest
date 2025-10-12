@@ -26,7 +26,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Tools/Applications](#tools/applications)
   - [AI & ML](ai-&-ml)
 
-## Roles & Responsibilities
+### [Roles & Responsiblilities](#roles-&-responsiblilities)
   - [Job Roles](#job-roles)
   - [Responsibilities](#responsibilities)
 
@@ -187,7 +187,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
  | [Engineering roles](resources/software_eng_roles.md) | |
  | Leadership roles | |
 
-## Responsibilities
+## Roles & Responsiblilities
 
  | Topic         | Description   |
  | :------------ | :-----------: |
