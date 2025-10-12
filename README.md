@@ -26,20 +26,21 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Tools/Applications](#tools/applications)
   - [AI & ML](ai-&-ml)
 
-
+## Roles & Responsibilities
   - [Job Roles](#job-roles)
   - [Responsibilities](#responsibilities)
 
 
-- [Soft-Skills](#soft-skills)
-    -     
+## [Soft-Skills](#soft-skills)
+  - [Intro](#) 
 
-- [Documentation](#documentation)
+## [Documentation](#documentation)
   - [Project Docs](#)  
 
-
+## Useful Resources
   - [Book Recommendations](#book-recommendations)
   - [Other Useful Resources](#other-useful-resources)
+
 
 # Topics
 
