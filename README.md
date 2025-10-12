@@ -25,22 +25,16 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Development](#development)
   - [Tools/Applications](#tools/applications)
   - [AI & ML](ai-&-ml)
-
 ### [Roles & Responsiblilities](#roles-&-responsiblilities)
   - [Job Roles](#job-roles)
   - [Responsibilities](#responsibilities)
-
-
-## [Soft-Skills](#soft-skills)
-  - [Intro](#) 
-
-## [Documentation](#documentation)
-  - [Project Docs](#)  
-
-## Useful Resources
+### [Soft-Skills](#soft-skills)
+  - [Intro](#)
+### [Documentation](#documentation)
+  - [Project Docs](#)
+### [Useful Resources](#useful-resources)
   - [Book Recommendations](#book-recommendations)
   - [Other Useful Resources](#other-useful-resources)
-
 
 # Tech Topics
 
@@ -260,5 +254,5 @@ Software engineers develop soft skills to work effectively in Agile teams, commu
 ### Management books
 -
 
-## Other Useful Resources
+## Useful Resources
 - 
