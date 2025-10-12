@@ -13,7 +13,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
 
 # Table of Contents
 
-- [Topics](#topics) 
+### [Tech Topics](#tech-topics) 
   - [Linux](#Linux)
   - [Networking](#networking)
   - [Security](#security)
@@ -42,7 +42,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Other Useful Resources](#other-useful-resources)
 
 
-# Topics
+# Tech Topics
 
 ## Linux
 
