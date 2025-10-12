@@ -13,7 +13,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
 
 # Table of Contents
 
-### [Tech Topics](#tech-topics) 
+## [Tech Topics](#tech-topics) 
   - [Linux](#Linux)
   - [Networking](#networking)
   - [Security](#security)
@@ -25,14 +25,14 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Development](#development)
   - [Tools/Applications](#tools/applications)
   - [AI & ML](ai-&-ml)
-### [Roles & Responsiblilities](#roles-&-responsiblilities)
+## [Roles & Responsiblilities](#roles-&-responsiblilities)
   - [Job Roles](#job-roles)
   - [Responsibilities](#responsibilities)
-### [Soft-Skills](#soft-skills)
+## [Soft-Skills](#soft-skills)
   - [Intro](#)
-### [Documentation](#documentation)
+## [Documentation](#documentation)
   - [Project Docs](#)
-### [Useful Resources](#useful-resources)
+## [Useful Resources](#useful-resources)
   - [Book Recommendations](#book-recommendations)
   - [Other Useful Resources](#other-useful-resources)
 
