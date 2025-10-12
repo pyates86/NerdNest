@@ -64,11 +64,14 @@ Software engineers learn networking to build and maintain web apps, cloud servic
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Networking Fundamentals](topics/networking/networking_fundamentals.md) | An overview  of networking fundamentals and the main concepts. |
- | [Networking: The OSI Model](topics/networking/networking_osi_model.md) | Description of the OSI Model which is a conceptual framework to standardize and simplify network communication. |
+ | [The OSI Model and Networking Layers](topics/networking/networking_osi_model.md) | Description of the OSI Model which is a conceptual framework to standardize and simplify network communication. |
  | [Protocols: The Language of Networks](topics/networking/networking_protocols.md) | Understanding the fundamental concepts in computer networking that enable devices to communicate over a network |
+ | [Understanding TCP and UDP](topics/networking/networking_tcp_udp.md) | Description of TCP and UDP which define how data is transmitted between devices over a network, handling the packaging, delivery, and integrity of data. |
+
+ | [Protocols: The Language of Networks](topics/networking/networking_protocols.md) | Understanding the fundamental concepts in computer networking that enable devices to communicate over a network |
+
  | [Understanding Ports and Protocols](resources/understanding_ports_and_protocols.md) | Understanding the fundamental concepts in computer networking that enable devices to communicate over a network |
  | [Ports and Protocols - examples](examples/ports_and_protocols.md) | A list of the top network ports and their associated protocols, along with brief explanations of their uses. |
- | [Understanding TCP and UDP](resources/tcp_and_udp.md) | Description of TCP and UDP which define how data is transmitted between devices over a network, handling the packaging, delivery, and integrity of data. |
  | [Networking tools](examples/basic_linux_networking_tools.md) | A list of top Linux networking tools which are widely used for network administration, monitoring, troubleshooting, and security tasks. |
  | [Toubleshooting and debugging](resources/troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
  | [Networking Concepts](resources/networking_concepts.md) |  |
