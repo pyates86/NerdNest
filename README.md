@@ -19,7 +19,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Security](#security)
   - [Virtualisation](#virtualisation)
   - [Cloud](#cloud)
-  - [Kubernetes & Openshift](#kubernetes-openshift)
+  - [Kubernetes & Openshift](#kubernetes&openshift)
   - [Git](#git)
   - [Agile](#agile)
   - [Automation](#automation)
