@@ -206,23 +206,20 @@ Artificial Intelligence (AI) and Machine Learning (ML) involve creating systems 
 
 Software engineers use AI and ML to build intelligent features, such as predictive analytics or image recognition, in apps. They leverage tools like TensorFlow or scikit-learn to develop scalable, data-driven solutions. Mastering AI/ML is crucial for careers in software engineering, data science, and emerging fields like autonomous systems.
 
-| Topic | Description |
-| :---- | :---------- |
-| [AI and ML Basics](topics/ai_ml/ai_ml_basics.md) | Learn core AI/ML concepts like supervised learning and neural networks for predicting Kubernetes resource usage. |
-| [Python for AI](topics/ai_ml/python_for_ai.md) | Master Python with NumPy, pandas, and scikit-learn for scripting AI-driven SRE tools like log parsing. |
-| [Data Processing and Visualization](topics/ai_ml/data_processing_visualization.md) | Clean and visualize Kubernetes metrics for AI model training using matplotlib and seaborn. |
-| [Time Series Analysis](topics/ai_ml/time_series_analysis.md) | Forecast Kubernetes pod metrics like traffic spikes using Prophet and Prometheus integration. |
-| [Anomaly Detection](topics/ai_ml/anomaly_detection.md) | Detect Kubernetes cluster anomalies like pod crashes using ML models and Prometheus/Grafana. |
-| [Deep Learning Fundamentals](topics/ai_ml/deep_learning_fundamentals.md) | Build neural networks with TensorFlow/Keras for predictive maintenance in Kubernetes environments. |
-| [LLM and NLP for Ops](topics/ai_ml/llm_nlp_for_ops.md) | Automate SRE tasks like log analysis and runbook generation using LLMs and LangChain. |
-| [MLOps and KubeFlow](topics/ai_ml/mlops_kubeflow.md) | Deploy AI models for Kubernetes autoscaling using MLOps practices and KubeFlow pipelines. |
-| [Chaos Engineering with AI](topics/ai_ml/chaos_engineering_with_ai.md) | Enhance Kubernetes chaos testing with AI to predict and mitigate failure impacts. |
-| [Portfolio Projects](topics/ai_ml/portfolio_projects.md) | Showcase AI-SRE projects like autoscalers or anomaly detection bots for Kubernetes clusters. |
-
- | Topic         | Description   |
- | :------------ | :-----------: |
- | [AI Overview](docs/ai_overview.md) | A brief description of Artificial Intelligence, detailing key characteristics and concepts.          |
- | [Basic Types of AI](docs/ai_types_overview.md) | A brief description of Artificial Intelligence types, detailing functionality.          |
+ | Topic | Description |
+ | :---- | :---------- |
+ | [AI Overview](topics/ai_ml/ai_overview.md) | A brief description of Artificial Intelligence, detailing key characteristics and concepts. |
+ | [Basic Types of AI](topics/ai_ml/ai_types_overview.md) | A brief description of Artificial Intelligence types, detailing functionality. |
+ | [AI and ML Basics](topics/ai_ml/ai_ml_basics.md) | Learn core AI/ML concepts like supervised learning and neural networks for predicting Kubernetes resource usage. |
+ | [Python for AI](topics/ai_ml/python_for_ai.md) | Master Python with NumPy, pandas, and scikit-learn for scripting AI-driven SRE tools like log parsing. |
+ | [Data Processing and Visualization](topics/ai_ml/data_processing_visualization.md) | Clean and visualize Kubernetes metrics for AI model training using matplotlib and seaborn. |
+ | [Time Series Analysis](topics/ai_ml/time_series_analysis.md) | Forecast Kubernetes pod metrics like traffic spikes using Prophet and Prometheus integration. |
+ | [Anomaly Detection](topics/ai_ml/anomaly_detection.md) | Detect Kubernetes cluster anomalies like pod crashes using ML models and Prometheus/Grafana. |
+ | [Deep Learning Fundamentals](topics/ai_ml/deep_learning_fundamentals.md) | Build neural networks with TensorFlow/Keras for predictive maintenance in Kubernetes environments. |
+ | [LLM and NLP for Ops](topics/ai_ml/llm_nlp_for_ops.md) | Automate SRE tasks like log analysis and runbook generation using LLMs and LangChain. |
+ | [MLOps and KubeFlow](topics/ai_ml/mlops_kubeflow.md) | Deploy AI models for Kubernetes autoscaling using MLOps practices and KubeFlow pipelines. |
+ | [Chaos Engineering with AI](topics/ai_ml/chaos_engineering_with_ai.md) | Enhance Kubernetes chaos testing with AI to predict and mitigate failure impacts. |
+ | [Portfolio Projects](topics/ai_ml/portfolio_projects.md) | Showcase AI-SRE projects like autoscalers or anomaly detection bots for Kubernetes clusters. |
  | [AI Glossary](docs/ai_glossary.md) | A comprehensive yet beginner-friendly glossary of key AI terminology.          |
 
 ## Job Roles
