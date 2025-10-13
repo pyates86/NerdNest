@@ -82,21 +82,33 @@ Software engineers learn cybersecurity to build secure applications, protect use
 
  | Topic         | Description   |
  | :------------ | :-----------: |
- | [Introduction to Network Security](topics/security/network_security_intro.md) | |
- | [Common Network Threats and Vulnerabilities](topics/security/network_threats__vulnerabilities.md) | |
- | [Firewalls and Access Control](topics/security/network_firewalls_access_control.md) | |
- | [Encryption and Secure Communication](topics/security/network_encryption_secure_comms.md) | |
- | [Intrusion Detection and Prevention Systems (IDPS)](topics/security/network_intrusion_detection.md) | |
- | [Network Authentication and Authorization](topics/security/network_authentication_authorization.md) | |
- | [Securing Wireless Networks](topics/security/securing_wireless_networks.md) | |
- | [Network Monitoring and Security Tools](topics/security/network_monitoring_tools.md) | |
- | [Best Practices for Network Security](topics/security/network_security_best_practices.md) | |
+ | [Introduction to Network Security](topics/security/network_security_intro.md) | Introduces network security principles, the CIA triad, and its role in IT systems. |
+ | [Common Network Threats and Vulnerabilities](topics/security/network_threats__vulnerabilities.md) | Explores prevalent threats like DDoS and vulnerabilities like misconfigurations. |
+ | [Firewalls and Access Control](topics/security/network_firewalls_access_control.md) | Covers firewall types and configurations to regulate network traffic and access. |
+ | [Encryption and Secure Communication](topics/security/network_encryption_secure_comms.md) | Explains encryption protocols like SSL/TLS for securing data in transit. |
+ | [Intrusion Detection and Prevention Systems (IDPS)](topics/security/network_intrusion_detection.md) | Details tools like Snort for detecting and mitigating network intrusions. |
+ | [Network Authentication and Authorization](topics/security/network_authentication_authorization.md) | Discusses protocols like RADIUS and MFA for securing network access. |
+ | [Securing Wireless Networks](topics/security/securing_wireless_networks.md) | Focuses on Wi-Fi security protocols and protecting wireless access points.  |
+ | [Network Monitoring and Security Tools](topics/security/network_monitoring_tools.md) | Introduces tools like Wireshark and SIEM for monitoring and analyzing threats. |
+ | [Best Practices for Network Security](topics/security/network_security_best_practices.md) | Provides strategies like patching and segmentation for robust network protection. |
 
 ## Virtualisation
 
 Virtualization is the creation of virtual versions of computing resources, such as servers, operating systems, or storage, using software called hypervisors (e.g., VMware, VirtualBox). It allows multiple virtual machines to run on a single physical machine, isolating environments while sharing hardware resources, enabling efficient testing, development, or cloud computing.
 
 Software engineers learn virtualization to build and test applications in isolated, reproducible environments, like simulating different operating systems. It’s crucial for DevOps, cloud platforms (e.g., AWS, Azure), and containerization (e.g., Docker), optimizing resource use and scalability. Understanding virtualization enhances skills in system deployment and management, boosting career prospects in cloud-based and enterprise development.
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [Introduction to Virtualization ](topics/virtualization/virtualization_introduction.md) | Introduces virtualization concepts, benefits, and its role in IT ecosystems. |
+ | [Types of Virtualization ](topics/virtualization/virtualization_types.md) | Explores server, desktop, network, storage, and application virtualization use cases. |
+ | [Hypervisors: The Core of Virtualization ](topics/virtualization/virtualization_hypervisors.md) | Explains Type 1 and Type 2 hypervisors and their role in managing VMs. |
+ | [Setting Up Virtual Machines ](topics/virtualization/virtual_machines.md) | Guides learners through creating and configuring virtual machines with tools like KVM. |
+ | [Virtualization in Linux Environments ](topics/virtualization/virtualization_linux.md) | Covers Linux-native virtualization tools like KVM and VirtualBox for practical deployment. |
+ | [Networking in Virtual Environments ](topics/virtualization/networking_virtual_environments.md) | Details virtual networking, including switches and configurations for VM connectivity. |
+ | [Storage Virtualization ](topics/virtualization/virtualization_storage.md) | Introduces techniques for abstracting and managing storage in virtual environments. |
+ | [Security in Virtualized Environments ](topics/virtualization/virtualized_environments_security.md) | Discusses securing VMs and hypervisors against threats like VM escape. |
+ | [Virtualization Management and Automation ](topics/virtualization/virtualization_management.md) | Explores tools and scripts for managing and automating VM tasks in Linux. |
 
  | Topic         | Description   |
  | :------------ | :-----------: |
