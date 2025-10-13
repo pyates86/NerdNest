@@ -57,8 +57,8 @@ Software engineers use Linux for its powerful command-line tools, ideal for auto
 
 
 
-## Networking
-[Return &larr;](#table-of-contents)
+## Networking [&larr;](#table-of-contents)
+[&larr;](#table-of-contents)
 
 Computer networking connects devices to share data via wired (Ethernet) or wireless (Wi-Fi) technologies, using protocols like TCP/IP for reliable communication. It involves routers, switches, and servers, supporting everything from local networks (LANs) to the internet.
 
