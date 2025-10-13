@@ -19,7 +19,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Security](#security)
   - [Virtualisation](#virtualisation)
   - [Cloud](#cloud)
-  - [Kubernetes & Openshift](#kubernetes-and-openshift)
+  - [Kubernetes and Openshift](#kubernetes-and-openshift)
   - [Git](#git)
   - [Agile](#agile)
   - [Automation](#automation)
@@ -27,7 +27,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Tools/Applications](#tools/applications)
   - [AI & ML](ai-&-ml)
 ## [Career Topics](#career-topics)
-  - [Roles & Responsiblilities](#roles-and-responsiblilities)
+  - [Roles and Responsiblilities](#roles-and-responsiblilities)
   - [Meeting Types](#meeting-types)
   - [Soft-Skills](#soft-skills)
   - [Documentation](#documentation)
@@ -135,7 +135,7 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [Cloud Computing Concepts](resources/cloud_concepts.md) | |
  | Cloud providers (AWS, Azure, GCP) | |
 
-## Kubernetes & Openshift
+## Kubernetes and Openshift
 
  | Topic         | Description   |
  | :------------ | :-----------: |
@@ -217,7 +217,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
  | [Engineering roles](resources/software_eng_roles.md) | |
  | Leadership roles | |
 
-## Roles & Responsiblilities
+## Roles and Responsiblilities
 
  | Topic         | Description   |
  | :------------ | :-----------: |
