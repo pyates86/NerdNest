@@ -14,7 +14,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
 # Table of Contents
 
 ## [Tech Topics](#tech-topics) 
-  - [Linux](#Linux-[&uarr;](#table-of-contents))
+  - [Linux](#linux)
   - [Networking](#networking)
   - [Security](#security)
   - [Virtualization](#virtualization)
@@ -37,7 +37,8 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
 
 # Tech Topics
 
-## Linux [&uarr;](#table-of-contents)
+## Linux
+[return&uarr;](#table-of-contents)
 
 Linux is an open-source operating system with freely modifiable code, built by a global community. Unlike Windows or macOS, it’s customizable, secure, and free, running on devices from PCs to servers. Popular distributions like Ubuntu and Debian suit various needs, with a Unix-like kernel ensuring stability.
 
