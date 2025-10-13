@@ -17,7 +17,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Linux](#Linux)
   - [Networking](#networking)
   - [Security](#security)
-  - [Virtualisation](#virtualisation)
+  - [Virtualization](#virtualization)
   - [Cloud Computing](#cloud-computing)
   - [Kubernetes and Openshift](#kubernetes-and-openshift)
   - [Git](#git)
@@ -93,7 +93,7 @@ Software engineers learn cybersecurity to build secure applications, protect use
  | [Network Monitoring and Security Tools](topics/security/network_monitoring_tools.md) | Introduces tools like Wireshark and SIEM for monitoring and analyzing threats. |
  | [Best Practices for Network Security](topics/security/network_security_best_practices.md) | Provides strategies like patching and segmentation for robust network protection. |
 
-## Virtualisation
+## Virtualization
 
 Virtualization is the creation of virtual versions of computing resources, such as servers, operating systems, or storage, using software called hypervisors (e.g., VMware, VirtualBox). It allows multiple virtual machines to run on a single physical machine, isolating environments while sharing hardware resources, enabling efficient testing, development, or cloud computing.
 
@@ -174,11 +174,17 @@ Automation in software engineering is the use of tools and scripts to perform re
 
 Software engineers use automation to boost efficiency, reduce errors, and accelerate development cycles, such as automating code testing or server provisioning. It’s critical for DevOps, cloud computing, and scalable systems, ensuring consistent, reliable workflows. Mastering automation is essential for careers in software engineering, DevOps, and system administration.
 
- | Topic         | Description   |
- | :------------ | :-----------: |
- | Basic Scripting | TODO |
- | Ansible | TODO |
-
+| Topic | Description |
+| :---- | :---------- |
+| [Introduction to Automation](topics/automation/introduction_to_automation.md) | Introduces automation concepts, benefits, and its role in IT efficiency. |
+| [Scripting for Automation](topics/automation/scripting_for_automation.md) | Covers writing scripts in Bash and Python for automating IT tasks. |
+| [Automation Tools and Frameworks](topics/automation/automation_tools_and_frameworks.md) | Explores tools like Ansible and Puppet for configuration management. |
+| [Task Scheduling and Cron Jobs](topics/automation/task_scheduling_and_cron_jobs.md) | Details scheduling automated tasks using cron in Linux environments. |
+| [Automation in System Administration](topics/automation/automation_in_system_administration.md) | Focuses on automating Linux system tasks like user and package management. |
+| [Automation in Networking](topics/automation/automation_in_networking.md) | Covers automating network configurations and monitoring tasks. |
+| [Automation in Virtualization and Cloud](topics/automation/automation_in_virtualization_and_cloud.md) | Discusses automating VM and cloud resource management with tools like Terraform. |
+| [Continuous Integration and Deployment (CI/CD)](topics/automation/continuous_integration_and_deployment.md) | Introduces CI/CD pipelines for automating software delivery. |
+| [Monitoring and Error Handling in Automation](topics/automation/monitoring_and_error_handling_in_automation.md) | Explores monitoring automation workflows and handling errors effectively. |
 
 ## Development
 
