@@ -19,6 +19,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Security](#security)
   - [Virtualisation](#virtualisation)
   - [Cloud](#cloud)
+  - [Kubernetes & Openshift](#kubernetes-&-openshift)
   - [Git](#git)
   - [Agile](#agile)
   - [Automation](#automation)
@@ -110,14 +111,6 @@ Software engineers learn virtualization to build and test applications in isolat
  | [Security in Virtualized Environments ](topics/virtualization/virtualized_environments_security.md) | Discusses securing VMs and hypervisors against threats like VM escape. |
  | [Virtualization Management and Automation ](topics/virtualization/virtualization_management.md) | Explores tools and scripts for managing and automating VM tasks in Linux. |
 
- | Topic         | Description   |
- | :------------ | :-----------: |
- | Virtualisation fundementals |  |
- | Virtual Manchines (KVM) |  |
- | Containers (Cri-o, Docker, LXD) |  |
- | [Understanding Kubernetes](docs/kubernetes_overview.md) |  |
- | [Understanding Openshift](docs/openshift_overview.md) |  |
-
 ## Cloud
 
 Cloud computing is the delivery of computing resources, like servers, storage, or software, over the internet, using services like AWS, Azure, or Google Cloud. It enables on-demand access to scalable, flexible infrastructure without physical hardware management, supporting applications from web hosting to AI model training.
@@ -136,13 +129,22 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [Automation and Orchestration in the Cloud](topics/cloud_computing/automation_and_orchestration_in_cloud.md) | |
  | [Cost Management and Optimization in the Cloud](topics/cloud_computing/cost_management_and_optimization_in_cloud.md) | |
 
-
-
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Cloud Computing Overview](resources/cloud_computing_overview.md) | |
  | [Cloud Computing Concepts](resources/cloud_concepts.md) | |
  | Cloud providers (AWS, Azure, GCP) | |
+
+## Kubernetes & Openshift
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | Virtualisation fundementals |  |
+ | Virtual Manchines (KVM) |  |
+ | Containers (Cri-o, Docker, LXD) |  |
+ | [Understanding Kubernetes](docs/kubernetes_overview.md) |  |
+ | [Understanding Openshift](docs/openshift_overview.md) |  |
+
 
 ## Git
 
