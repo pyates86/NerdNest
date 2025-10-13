@@ -14,7 +14,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
 # Table of Contents
 
 ## [Tech Topics](#tech-topics) 
-  - [Linux](#Linux)
+  - [Linux](#Linux-[&uarr;](#table-of-contents))
   - [Networking](#networking)
   - [Security](#security)
   - [Virtualization](#virtualization)
