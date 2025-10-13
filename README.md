@@ -220,7 +220,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
  | [MLOps and KubeFlow](topics/ai_ml/mlops_kubeflow.md) | Deploy AI models for Kubernetes autoscaling using MLOps practices and KubeFlow pipelines. |
  | [Chaos Engineering with AI](topics/ai_ml/chaos_engineering_with_ai.md) | Enhance Kubernetes chaos testing with AI to predict and mitigate failure impacts. |
  | [Portfolio Projects](topics/ai_ml/portfolio_projects.md) | Showcase AI-SRE projects like autoscalers or anomaly detection bots for Kubernetes clusters. |
- | [AI Glossary](docs/ai_glossary.md) | A comprehensive yet beginner-friendly glossary of key AI terminology.          |
+ | [AI Glossary](topics/ai_ml/ai_glossary.md) | A comprehensive yet beginner-friendly glossary of key AI terminology.          |
 
 ## Job Roles
 
