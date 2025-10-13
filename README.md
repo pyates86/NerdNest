@@ -126,6 +126,20 @@ Software engineers learn cloud computing to build, deploy, and scale application
 
  | Topic         | Description   |
  | :------------ | :-----------: |
+ | [Introduction to Cloud Computing](topics/cloud_computing/introduction_to_cloud_computing.md) | |
+ | [Cloud Service Models](topics/cloud_computing/cloud_service_models.md) | |
+ | [Cloud Deployment Models](topics/cloud_computing/cloud_deployment_models.md) | |
+ | [Cloud Providers and Platforms](topics/cloud_computing/cloud_providers_and_platforms.md) | |
+ | [Setting Up Cloud Instances](topics/cloud_computing/setting_up_cloud_instances.md) | |
+ | [Cloud Networking and Security](topics/cloud_computing/cloud_networking_and_security.md) | |
+ | [Cloud Storage and Data Management](topics/cloud_computing/cloud_storage_and_data_management.md) |  |
+ | [Automation and Orchestration in the Cloud](topics/cloud_computing/automation_and_orchestration_in_cloud.md) | |
+ | [Cost Management and Optimization in the Cloud](topics/cloud_computing/cost_management_and_optimization_in_cloud.md) | |
+
+
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
  | [Cloud Computing Overview](resources/cloud_computing_overview.md) | |
  | [Cloud Computing Concepts](resources/cloud_concepts.md) | |
  | Cloud providers (AWS, Azure, GCP) | |
