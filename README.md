@@ -18,7 +18,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Networking](#networking)
   - [Security](#security)
   - [Virtualisation](#virtualisation)
-  - [Cloud](#cloud)
+  - [Cloud Computing](#cloud-computing)
   - [Kubernetes and Openshift](#kubernetes-and-openshift)
   - [Git](#git)
   - [Agile](#agile)
@@ -111,23 +111,23 @@ Software engineers learn virtualization to build and test applications in isolat
  | [Security in Virtualized Environments ](topics/virtualization/virtualized_environments_security.md) | Discusses securing VMs and hypervisors against threats like VM escape. |
  | [Virtualization Management and Automation ](topics/virtualization/virtualization_management.md) | Explores tools and scripts for managing and automating VM tasks in Linux. |
 
-## Cloud
+## Cloud Computing
 
 Cloud computing is the delivery of computing resources, like servers, storage, or software, over the internet, using services like AWS, Azure, or Google Cloud. It enables on-demand access to scalable, flexible infrastructure without physical hardware management, supporting applications from web hosting to AI model training.
 
 Software engineers learn cloud computing to build, deploy, and scale applications efficiently, such as web apps or machine learning pipelines. It streamlines development with tools for automation, storage, and networking, while ensuring cost-efficiency and reliability. Mastery of cloud platforms is essential for careers in DevOps, backend development, and modern software engineering.
 
- | Topic         | Description   |
- | :------------ | :-----------: |
- | [Introduction to Cloud Computing](topics/cloud_computing/introduction_to_cloud_computing.md) | |
- | [Cloud Service Models](topics/cloud_computing/cloud_service_models.md) | |
- | [Cloud Deployment Models](topics/cloud_computing/cloud_deployment_models.md) | |
- | [Cloud Providers and Platforms](topics/cloud_computing/cloud_providers_and_platforms.md) | |
- | [Setting Up Cloud Instances](topics/cloud_computing/setting_up_cloud_instances.md) | |
- | [Cloud Networking and Security](topics/cloud_computing/cloud_networking_and_security.md) | |
- | [Cloud Storage and Data Management](topics/cloud_computing/cloud_storage_and_data_management.md) |  |
- | [Automation and Orchestration in the Cloud](topics/cloud_computing/automation_and_orchestration_in_cloud.md) | |
- | [Cost Management and Optimization in the Cloud](topics/cloud_computing/cost_management_and_optimization_in_cloud.md) | |
+| Topic | Description |
+| :---- | :---------- |
+| [Introduction to Cloud Computing](topics/cloud_computing/introduction_to_cloud_computing.md) | Introduces cloud computing concepts, benefits, and its role in IT ecosystems. |
+| [Cloud Service Models](topics/cloud_computing/cloud_service_models.md) | Explores IaaS, PaaS, and SaaS models and their applications in cloud environments. |
+| [Cloud Deployment Models](topics/cloud_computing/cloud_deployment_models.md) | Covers public, private, hybrid, and community clouds for different organizational needs. |
+| [Cloud Providers and Platforms](topics/cloud_computing/cloud_providers_and_platforms.md) | Introduces major cloud providers like AWS and tools for managing cloud resources. |
+| [Setting Up Cloud Instances](topics/cloud_computing/setting_up_cloud_instances.md) | Guides learners through creating and managing virtual machine instances in the cloud. |
+| [Cloud Networking and Security](topics/cloud_computing/cloud_networking_and_security.md) | Details virtual network configurations and security practices for cloud environments. |
+| [Cloud Storage and Data Management](topics/cloud_computing/cloud_storage_and_data_management.md) | Explores object, block, and file storage for efficient data management in the cloud. |
+| [Automation and Orchestration in the Cloud](topics/cloud_computing/automation_and_orchestration_in_cloud.md) | Covers tools like Kubernetes for automating and managing cloud resources. |
+| [Cost Management and Optimization in the Cloud](topics/cloud_computing/cost_management_and_optimization_in_cloud.md) | Provides strategies for monitoring and optimizing cloud costs effectively. |
 
  | Topic         | Description   |
  | :------------ | :-----------: |
