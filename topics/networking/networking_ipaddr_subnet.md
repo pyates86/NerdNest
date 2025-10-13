@@ -1,4 +1,4 @@
-# 6. IP Addressing and Subnetting
+# IP Addressing and Subnetting
 
 ## Overview
 IP addressing is the backbone of network communication, providing unique identifiers for devices on a network, much like postal addresses for physical mail. This module delves into the structure of IP addresses, focusing on both IPv4 and IPv6, and explores subnetting as a method to divide large networks into smaller, more manageable subnetworks. Subnetting enhances efficiency, security, and performance by reducing broadcast domains and optimizing traffic flow. Learners will learn to calculate subnets, understand address allocation, and differentiate between public and private addresses, equipping them to plan scalable network architectures.

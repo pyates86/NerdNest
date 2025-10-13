@@ -1,4 +1,4 @@
-# 7. Networking Devices and Infrastructure
+# Networking Devices and Infrastructure
 
 ## Overview
 Networking devices form the physical and logical backbone of any network, enabling data to flow between devices efficiently and securely. This module explores key hardware components like routers, switches, access points, and firewalls, while delving into their operational layers, segmentation techniques, and wireless capabilities. Understanding these devices is essential for configuring, maintaining, and troubleshooting networks, from small home setups to enterprise-scale infrastructures. Learners will gain hands-on insights into how these elements interconnect to create robust, scalable networks.

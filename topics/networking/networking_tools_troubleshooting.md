@@ -1,4 +1,4 @@
-# 8. Networking Tools and Troubleshooting
+# Networking Tools and Troubleshooting
 
 ## Overview
 Troubleshooting networks requires a systematic approach using specialized tools to diagnose, monitor, and resolve issues efficiently. This module introduces essential command-line and graphical tools for inspecting network behavior, from basic connectivity checks to advanced packet analysis. Learners will explore techniques for identifying common problems like latency, packet loss, or misconfigurations, and learn optimization strategies to enhance performance. By mastering these tools, participants can minimize downtime and maintain reliable network operations in real-world IT environments.

@@ -1,4 +1,4 @@
-# 5. Ports and Network Communication
+# Ports and Network Communication
 
 ## Overview
 In networking, ports act as virtual endpoints that allow devices to communicate with specific services or applications running on those devices. Just as a physical address identifies a building and an apartment number specifies a unit within it, an IP address identifies a device on a network, while a port number directs traffic to the correct application or service on that device. Ports enable multiple applications to share the same network interface simultaneously without interference, making efficient and organized communication possible. Understanding ports is crucial for grasping how data is routed and managed in modern networks, from web browsing to secure file transfers.
