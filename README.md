@@ -25,7 +25,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Automation](#automation)
   - [Development](#development)
   - [Tools/Applications](#tools/applications)
-  - [AI & ML](ai-&-ml)
+  - [Artificial Intelligence & Machine Learning](artificial-intelligence-and-machine-learning)
 ## [Career Topics](#career-topics)
   - [Roles and Responsiblilities](#roles-and-responsiblilities)
   - [Meeting Types](#meeting-types)
@@ -200,7 +200,7 @@ Software engineers learn software development to build functional, efficient, an
 ## Tools/Applications
 - 
 
-## Artificial Intelligence & Machine Learning
+## Artificial Intelligence and Machine Learning
 
 Artificial Intelligence (AI) and Machine Learning (ML) involve creating systems that mimic human intelligence, with ML being a subset where systems learn from data to make predictions or decisions. AI encompasses techniques like neural networks, NLP, and computer vision, used in applications from chatbots to recommendation systems.
 
