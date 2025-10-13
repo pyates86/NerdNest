@@ -25,7 +25,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Automation](#automation)
   - [Development](#development)
   - [Tools/Applications](#tools/applications)
-  - [Artificial Intelligence & Machine Learning](artificial-intelligence-and-machine-learning)
+  - [Artificial Intelligence & Machine Learning](#artificial-intelligence-and-machine-learning)
 ## [Career Topics](#career-topics)
   - [Roles and Responsiblilities](#roles-and-responsiblilities)
   - [Meeting Types](#meeting-types)
