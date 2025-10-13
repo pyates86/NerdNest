@@ -1,9 +1,3 @@
-
----
-
-### 3. Automation Tools and Frameworks
-
-```markdown
 # Automation Tools and Frameworks
 
 ## Overview
