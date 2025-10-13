@@ -37,8 +37,7 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
 
 # Tech Topics
 
-## Linux
-[Back to Contents Page](#table-of-contents)
+## Linux [&uarr;](#table-of-contents)
 
 Linux is an open-source operating system with freely modifiable code, built by a global community. Unlike Windows or macOS, it’s customizable, secure, and free, running on devices from PCs to servers. Popular distributions like Ubuntu and Debian suit various needs, with a Unix-like kernel ensuring stability.
 
@@ -57,8 +56,7 @@ Software engineers use Linux for its powerful command-line tools, ideal for auto
 
 
 
-## Networking [&larr;up](#table-of-contents)
-[up&larr;](#table-of-contents)
+## Networking [&uarr;](#table-of-contents)
 
 Computer networking connects devices to share data via wired (Ethernet) or wireless (Wi-Fi) technologies, using protocols like TCP/IP for reliable communication. It involves routers, switches, and servers, supporting everything from local networks (LANs) to the internet.
 
@@ -78,8 +76,7 @@ Software engineers learn networking to build and maintain web apps, cloud servic
  | [Toubleshooting vs debugging](topics/networking/networking_troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
 
 
-## Security 
-[Back to Contents Page](#table-of-contents)
+## Security [&uarr;](#table-of-contents) 
 
 Computer security, or cybersecurity, is the practice of protecting computers, networks, and data from unauthorized access, attacks, or damage. It involves techniques like encryption, firewalls, and authentication to safeguard systems against threats such as malware, phishing, or data breaches. Cybersecurity ensures confidentiality, integrity, and availability of information in applications like online banking or cloud storage.
 
@@ -97,8 +94,7 @@ Software engineers learn cybersecurity to build secure applications, protect use
  | [Network Monitoring and Security Tools](topics/security/network_monitoring_tools.md) | Introduces tools like Wireshark and SIEM for monitoring and analyzing threats. |
  | [Best Practices for Network Security](topics/security/network_security_best_practices.md) | Provides strategies like patching and segmentation for robust network protection. |
 
-## Virtualization
-[Back to Contents Page](#table-of-contents)
+## Virtualization [&uarr;](#table-of-contents)
 
 Virtualization is the creation of virtual versions of computing resources, such as servers, operating systems, or storage, using software called hypervisors (e.g., VMware, VirtualBox). It allows multiple virtual machines to run on a single physical machine, isolating environments while sharing hardware resources, enabling efficient testing, development, or cloud computing.
 
@@ -116,8 +112,7 @@ Software engineers learn virtualization to build and test applications in isolat
  | [Security in Virtualized Environments ](topics/virtualization/virtualized_environments_security.md) | Discusses securing VMs and hypervisors against threats like VM escape. |
  | [Virtualization Management and Automation ](topics/virtualization/virtualization_management.md) | Explores tools and scripts for managing and automating VM tasks in Linux. |
 
-## Cloud Computing
-[Back to Contents Page](#table-of-contents)
+## Cloud Computing [&uarr;](#table-of-contents)
 
 Cloud computing is the delivery of computing resources, like servers, storage, or software, over the internet, using services like AWS, Azure, or Google Cloud. It enables on-demand access to scalable, flexible infrastructure without physical hardware management, supporting applications from web hosting to AI model training.
 
@@ -141,8 +136,7 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [Cloud Computing Concepts](resources/cloud_concepts.md) | |
  | Cloud providers (AWS, Azure, GCP) | |
 
-## Kubernetes and Openshift
-[Back to Contents Page](#table-of-contents)
+## Kubernetes and Openshift [&uarr;](#table-of-contents)
 
  | Topic         | Description   |
  | :------------ | :-----------: |
@@ -153,8 +147,7 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [Understanding Openshift](docs/openshift_overview.md) |  |
 
 
-## Git
-[Back to Contents Page](#table-of-contents)
+## Git [&uarr;](#table-of-contents)
 
 Git is a distributed version control system that tracks changes to code, allowing multiple developers to collaborate on projects. It stores code versions in repositories, enabling branching, merging, and rollback to manage updates efficiently, with platforms like GitHub or GitLab hosting remote repositories.
 
@@ -167,8 +160,7 @@ Software engineers use Git to manage codebases, coordinate team contributions, a
  | [Git Overview](docs/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
  | [Git Tutorial](examples/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
 
-## Agile
-[Back to Contents Page](#table-of-contents)
+## Agile [&uarr;](#table-of-contents)
 
 Agile is a software development methodology that emphasizes iterative, flexible, and collaborative approaches to building software. It uses short development cycles (sprints), frequent feedback, and adaptive planning, with frameworks like Scrum or Kanban, to deliver working software incrementally.
 
@@ -177,8 +169,7 @@ Software engineers adopt Agile to enhance teamwork, adapt to changing requiremen
 - [Agile concepts](resources/agile_concepts.md)
 - [Jira concepts](resources/jira_concepts.md)
 
-## Automation
-[Back to Contents Page](#table-of-contents)
+## Automation [&uarr;](#table-of-contents)
 
 Automation in software engineering is the use of tools and scripts to perform repetitive tasks, such as testing, deployment, or system monitoring, without manual intervention. It leverages technologies like CI/CD pipelines, scripting (e.g., Python), and tools like Jenkins or Ansible to streamline processes.
 
@@ -196,8 +187,7 @@ Software engineers use automation to boost efficiency, reduce errors, and accele
 | [Continuous Integration and Deployment (CI/CD)](topics/automation/continuous_integration_and_deployment.md) | Introduces CI/CD pipelines for automating software delivery. |
 | [Monitoring and Error Handling in Automation](topics/automation/monitoring_and_error_handling_in_automation.md) | Explores monitoring automation workflows and handling errors effectively. |
 
-## Development
-[Back to Contents Page](#table-of-contents)
+## Development [&uarr;](#table-of-contents)
 
 Software development is the process of designing, coding, testing, and maintaining software applications or systems to solve problems or meet user needs. It involves programming languages (e.g., Python, Java), tools like IDEs, and methodologies like Agile to create everything from mobile apps to enterprise systems.
 
@@ -208,11 +198,10 @@ Software engineers learn software development to build functional, efficient, an
  | [Understanding Languages](resources/understanding_languages.md) | A brief description of the different types of of languages and what they are used for. |
 
 
-## Tools/Applications
+## Tools/Applications [&uarr;](#table-of-contents)
  
 
-## Artificial Intelligence and Machine Learning
-[Back to Contents Page](#table-of-contents)
+## Artificial Intelligence and Machine Learning [&uarr;](#table-of-contents)
 
 Artificial Intelligence (AI) and Machine Learning (ML) involve creating systems that mimic human intelligence, with ML being a subset where systems learn from data to make predictions or decisions. AI encompasses techniques like neural networks, NLP, and computer vision, used in applications from chatbots to recommendation systems.
 
@@ -245,7 +234,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
  | [Engineering roles](resources/software_eng_roles.md) | |
  | Leadership roles | |
 
-## Roles and Responsiblilities
+## Roles and Responsiblilities [&uarr;](#table-of-contents)
 
  | Topic         | Description   |
  | :------------ | :-----------: |
@@ -255,7 +244,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
  | [SLA's, SLO's, and SLI's](resources/sla_slo_sli.md) | |
  | [Error Budget and Burn Rate](resources/error_budget_burn_rate.md) | A brief explination of Error Budgets and Burn Rates with examples. |
  
-## Soft-Skills
+## Soft-Skills [&uarr;](#table-of-contents)
 
 Soft skills are non-technical abilities, like communication, teamwork, problem-solving, and adaptability, that enhance interpersonal interactions and workplace effectiveness. In software engineering, they complement technical skills, enabling collaboration, project management, and client engagement in dynamic team settings.
 
