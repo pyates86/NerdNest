@@ -56,7 +56,8 @@ Software engineers use Linux for its powerful command-line tools, ideal for auto
 
 
 
-## Networking [home](#table-of-contents)
+## Networking [Return to Contents Page](#table-of-contents)
+[Return to Contents Page](#table-of-contents)
 
 Computer networking connects devices to share data via wired (Ethernet) or wireless (Wi-Fi) technologies, using protocols like TCP/IP for reliable communication. It involves routers, switches, and servers, supporting everything from local networks (LANs) to the internet.
 
@@ -74,6 +75,8 @@ Software engineers learn networking to build and maintain web apps, cloud servic
  | [Common Networking tools](topics/networking/networking_tools.md) | A list of top Linux networking tools which are widely used for network administration, monitoring, troubleshooting, and security tasks. |
  | [Networking Tools and Troubleshooting](topics/networking/networking_tools_troubleshooting.md) | Introduces essential command-line and graphical tools for inspecting network behavior, from basic connectivity checks to advanced packet analysis. |
  | [Toubleshooting vs debugging](topics/networking/networking_troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
+
+[Return to Contents Page](#table-of-contents)
 
 ## Security 
 
