@@ -19,7 +19,8 @@ NerdNest is a comprehensive, open-source repository that provides tutorials, gui
   - [Security](#security)
   - [Virtualization](#virtualization)
   - [Cloud Computing](#cloud-computing)
-  - [Kubernetes and Openshift](#kubernetes-and-openshift)
+  - [Kubernetes](#kubernetes)
+  - [Openshift](#openshift)
   - [Git](#git)
   - [Agile](#agile)
   - [Automation](#automation)
@@ -137,7 +138,22 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [Automation and Orchestration in the Cloud](topics/cloud_computing/automation_and_orchestration_in_cloud.md) | Covers tools like Kubernetes for automating and managing cloud resources. |
  | [Cost Management and Optimization in the Cloud](topics/cloud_computing/cost_management_and_optimization_in_cloud.md) | Provides strategies for monitoring and optimizing cloud costs effectively. |
 
-## Kubernetes and Openshift
+## Kubernetes
+[home &uarr;](#nerd-nest)
+| Topic | Description |
+| :------------ | :----------- |
+| [Kubernetes Overview and Introduction](topics/kubernetes/kubernetes_overview_and_introduction.md) | Introduces Kubernetes, its role in container orchestration, and key use cases like cloud and edge deployments. Covers history and comparisons with alternatives. |
+| [Kubernetes Fundamentals](topics/kubernetes/kubernetes_fundamentals.md) | Explains core components (pods, nodes, clusters, control plane) and the Kubernetes architecture for managing containers at scale. |
+| [Key Kubernetes Concepts](topics/kubernetes/key_kubernetes_concepts.md) | Details essential objects like Deployments, Services, ConfigMaps, and Namespaces, with YAML-based configuration examples. |
+| [Setting Up and Managing Kubernetes Clusters](topics/kubernetes/setting_up_and_managing_clusters.md) | Guides on creating and maintaining clusters using Minikube, cloud providers (e.g., AWS EKS), or kubeadm for local and production environments. |
+| [Workloads and Resource Management](topics/kubernetes/workloads_and_resource_management.md) | Covers workload types (Pods, ReplicaSets, StatefulSets) and resource management techniques like autoscaling and scheduling. |
+| [Networking in Kubernetes](topics/kubernetes/networking_in_kubernetes.md) | Explores pod communication, Services (ClusterIP, NodePort), Ingress, and network policies, with emphasis on edge computing applications. |
+| [Storage in Kubernetes](topics/kubernetes/storage_in_kubernetes.md) | Describes storage solutions like Persistent Volumes, Claims, and StorageClasses, including edge-specific local storage options. |
+| [CI/CD and DevOps with Kubernetes](topics/kubernetes/cicd_and_devops.md) | Shows how to integrate Kubernetes with CI/CD pipelines (e.g., Jenkins, ArgoCD) and GitOps for automated, scalable deployments. |
+| [Security and Best Practices in Kubernetes](topics/kubernetes/security_and_best_practices.md) | Covers securing clusters with RBAC, Pod Security Policies, and monitoring tools (e.g., Prometheus) for reliable operations. |
+| [Advanced Kubernetes Topics](topics/kubernetes/advanced_kubernetes_topics.md) | Dives into custom controllers, CRDs, Operators, and edge integrations (e.g., KubeEdge) for AI and distributed systems. |
+
+## Openshift
 [home &uarr;](#nerd-nest)
 
  | Topic         | Description   |
