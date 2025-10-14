@@ -140,27 +140,36 @@ Software engineers learn cloud computing to build, deploy, and scale application
 
 ## Kubernetes
 [home &uarr;](#nerd-nest)
-| Topic | Description |
-| :------------ | :----------- |
-| [Kubernetes Overview and Introduction](topics/kubernetes/kubernetes_overview_and_introduction.md) | Introduces Kubernetes, its role in container orchestration, and key use cases like cloud and edge deployments. Covers history and comparisons with alternatives. |
-| [Kubernetes Fundamentals](topics/kubernetes/kubernetes_fundamentals.md) | Explains core components (pods, nodes, clusters, control plane) and the Kubernetes architecture for managing containers at scale. |
-| [Key Kubernetes Concepts](topics/kubernetes/key_kubernetes_concepts.md) | Details essential objects like Deployments, Services, ConfigMaps, and Namespaces, with YAML-based configuration examples. |
-| [Setting Up and Managing Kubernetes Clusters](topics/kubernetes/setting_up_and_managing_clusters.md) | Guides on creating and maintaining clusters using Minikube, cloud providers (e.g., AWS EKS), or kubeadm for local and production environments. |
-| [Workloads and Resource Management](topics/kubernetes/workloads_and_resource_management.md) | Covers workload types (Pods, ReplicaSets, StatefulSets) and resource management techniques like autoscaling and scheduling. |
-| [Networking in Kubernetes](topics/kubernetes/networking_in_kubernetes.md) | Explores pod communication, Services (ClusterIP, NodePort), Ingress, and network policies, with emphasis on edge computing applications. |
-| [Storage in Kubernetes](topics/kubernetes/storage_in_kubernetes.md) | Describes storage solutions like Persistent Volumes, Claims, and StorageClasses, including edge-specific local storage options. |
-| [CI/CD and DevOps with Kubernetes](topics/kubernetes/cicd_and_devops.md) | Shows how to integrate Kubernetes with CI/CD pipelines (e.g., Jenkins, ArgoCD) and GitOps for automated, scalable deployments. |
-| [Security and Best Practices in Kubernetes](topics/kubernetes/security_and_best_practices.md) | Covers securing clusters with RBAC, Pod Security Policies, and monitoring tools (e.g., Prometheus) for reliable operations. |
-| [Advanced Kubernetes Topics](topics/kubernetes/advanced_kubernetes_topics.md) | Dives into custom controllers, CRDs, Operators, and edge integrations (e.g., KubeEdge) for AI and distributed systems. |
+
+ | Topic | Description |
+ | :------------ | :----------- |
+ | [Kubernetes Overview and Introduction](topics/kubernetes/kubernetes_overview_and_introduction.md) | Introduces Kubernetes, its role in container orchestration, and key use cases like cloud and edge deployments. Covers history and comparisons with alternatives. |
+ | [Kubernetes Fundamentals](topics/kubernetes/kubernetes_fundamentals.md) | Explains core components (pods, nodes, clusters, control plane) and the Kubernetes architecture for managing containers at scale. |
+ | [Key Kubernetes Concepts](topics/kubernetes/key_kubernetes_concepts.md) | Details essential objects like Deployments, Services, ConfigMaps, and Namespaces, with YAML-based configuration examples. |
+ | [Setting Up and Managing Kubernetes Clusters](topics/kubernetes/setting_up_and_managing_clusters.md) | Guides on creating and maintaining clusters using Minikube, cloud providers (e.g., AWS EKS), or kubeadm for local and production environments. |
+ | [Workloads and Resource Management](topics/kubernetes/workloads_and_resource_management.md) | Covers workload types (Pods, ReplicaSets, StatefulSets) and resource management techniques like autoscaling and scheduling. |
+ | [Networking in Kubernetes](topics/kubernetes/networking_in_kubernetes.md) | Explores pod communication, Services (ClusterIP, NodePort), Ingress, and network policies, with emphasis on edge computing applications. |
+ | [Storage in Kubernetes](topics/kubernetes/storage_in_kubernetes.md) | Describes storage solutions like Persistent Volumes, Claims, and StorageClasses, including edge-specific local storage options. |
+ | [CI/CD and DevOps with Kubernetes](topics/kubernetes/cicd_and_devops.md) | Shows how to integrate Kubernetes with CI/CD pipelines (e.g., Jenkins, ArgoCD) and GitOps for automated, scalable deployments. |
+ | [Security and Best Practices in Kubernetes](topics/kubernetes/security_and_best_practices.md) | Covers securing clusters with RBAC, Pod Security Policies, and monitoring tools (e.g., Prometheus) for reliable operations. |
+ | [Advanced Kubernetes Topics](topics/kubernetes/advanced_kubernetes_topics.md) | Dives into custom controllers, CRDs, Operators, and edge integrations (e.g., KubeEdge) for AI and distributed systems. |
 
 ## Openshift
 [home &uarr;](#nerd-nest)
 
- | Topic         | Description   |
- | :------------ | :-----------: |
- | Virtualisation fundementals |  |
- | Virtual Manchines (KVM) |  |
- | Containers (Cri-o, Docker, LXD) |  |
+ | Topic | Description |
+ | :------------ | :----------- |
+ | [OpenShift Overview and Introduction](topics/openshift/openshift_overview_and_introduction.md) | Introduces OpenShift, its role as a Kubernetes-based platform, and enterprise use cases like cloud and edge deployments. |
+ | [OpenShift Architecture and Components](topics/openshift/openshift_architecture_and_components.md) | Explores OpenShift’s architecture, Kubernetes integration, and unique features like the web console and CLI. |
+ | [Key OpenShift Concepts](topics/openshift/key_openshift_concepts.md) | Details core objects like Projects, Routes, BuildConfigs, and DeploymentConfigs for app management. |
+ | [Setting Up an OpenShift Cluster](topics/openshift/setting_up_an_openshift_cluster.md) | Guides on creating and managing local or cloud-based OpenShift clusters for learning and production. |
+ | [Deploying Applications on OpenShift](topics/openshift/deploying_applications_on_openshift.md) | Explains deploying apps using Source-to-Image (S2I), templates, and Docker images. |
+ | [Networking and Routes in OpenShift](topics/openshift/networking_and_routes_in_openshift.md) | Covers OpenShift’s networking model, Routes for external access, and edge computing applications. |
+ | [Storage Management in OpenShift](topics/openshift/storage_management_in_openshift.md) | Describes persistent storage, Persistent Volume Claims, and edge storage solutions. |
+ | [CI/CD and DevOps with OpenShift](topics/openshift/cicd_and_devops_with_openshift.md) | Explores OpenShift Pipelines, GitOps, and CI/CD integration for automated deployments. |
+ | [Security and Best Practices in OpenShift](topics/openshift/security_and_best_practices_in_openshift.md) | Covers securing clusters with RBAC, Security Context Constraints, and monitoring tools. |
+ | [Advanced OpenShift Topics](topics/openshift/advanced_openshift_topics.md) | Dives into Operators, serverless computing, and edge integrations like OpenShift Edge. |
+
  | [Understanding Kubernetes](docs/kubernetes_overview.md) |  |
  | [Understanding Openshift](docs/openshift_overview.md) |  |
 
