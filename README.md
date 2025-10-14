@@ -126,8 +126,8 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | Topic | Description |
  | :---- | :---------- |
  | [Introduction to Cloud Computing](topics/cloud_computing/introduction_to_cloud_computing.md) | Introduces cloud computing concepts, benefits, and its role in IT ecosystems. |
- | [Cloud Computing Fundamentals](topics/cloud_computing/cloud_computing_fundamentals.md) | |
- | [Cloud Computing Concepts](topics/cloud_computing/cloud_concepts.md) | |
+ | [Cloud Computing Fundamentals](topics/cloud_computing/cloud_computing_fundamentals.md) | An overview of definitions, key service and deployment models, core characteristics, and associated benefits and challenges. |
+ | [Cloud Computing Concepts](topics/cloud_computing/cloud_concepts.md) | Describes Cloud Computing concepts, service models (IaaS, PaaS, SaaS), deployment models, virtualization, scalability, pricing, and security. |
  | [Cloud Service Models](topics/cloud_computing/cloud_service_models.md) | Explores IaaS, PaaS, and SaaS models and their applications in cloud environments. |
  | [Cloud Deployment Models](topics/cloud_computing/cloud_deployment_models.md) | Covers public, private, hybrid, and community clouds for different organizational needs. |
  | [Cloud Providers and Platforms](topics/cloud_computing/cloud_providers_and_platforms.md) | Introduces major cloud providers like AWS and tools for managing cloud resources. |
