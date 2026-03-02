@@ -233,7 +233,7 @@ Software engineers learn software development to build functional, efficient, an
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Understanding Languages](resources/understanding_languages.md) | A brief description of the different types of of languages and what they are used for. |
-
+ | TODO | |
 
 ## Tools/Applications
 [home &uarr;](#nerd-nest)
