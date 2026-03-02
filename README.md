@@ -200,7 +200,7 @@ Agile is a software development methodology that emphasizes iterative, flexible,
 Software engineers adopt Agile to enhance teamwork, adapt to changing requirements, and deliver high-quality code faster. It’s vital for managing complex projects, ensuring customer satisfaction, and aligning with business needs. Proficiency in Agile is essential for careers in software engineering, DevOps, and project management, fostering efficient and responsive development processes.
 
  | Topic         | Description   |
- | :------------ | :----------- |
+ | :---- | :----------- |
  | [Agile concepts](topics/agile/agile_concepts.md) | Comprehensive guide to Agile software development principles and practices. |
  | [Jira concepts](topics/agile/jira_concepts.md) | Comprehensive guide to Jira: features, workflows, and Agile usage in software engineering. |
 
