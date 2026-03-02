@@ -201,8 +201,8 @@ Software engineers adopt Agile to enhance teamwork, adapt to changing requiremen
 
  | Topic         | Description   |
  | :------------ | :-----------: |
- | [Agile concepts](resources/agile_concepts.md) | |
- | [Jira concepts](resources/jira_concepts.md) | |
+ | [Agile concepts](topics/agile/agile_concepts.md) | |
+ | [Jira concepts](topics/agile/jira_concepts.md) | |
 
 ## Automation
 [home &uarr;](#nerd-nest)
