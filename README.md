@@ -183,10 +183,9 @@ Software engineers use Git to manage codebases, coordinate team contributions, a
 
  | Topic         | Description   |
  | :------------ | :-----------: | 
- | [Github Overview](docs/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
- | Github Tutorial |  |
- | [Git Overview](docs/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
- | [Git Tutorial](examples/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
+ | [Github Overview](topics/git/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
+ | [Git Overview](topics/git/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
+ | [Git Tutorial](topics/git/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
 
 ## Agile
 [home &uarr;](#nerd-nest)
