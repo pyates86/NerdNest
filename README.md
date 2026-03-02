@@ -51,7 +51,7 @@ Linux is an open-source operating system with freely modifiable code, built by a
 Software engineers use Linux for its powerful command-line tools, ideal for automating tasks and debugging code. It dominates servers, cloud platforms (e.g., AWS), and containers (e.g., Docker), making it crucial for backend, DevOps, and AI/ML work. Its stability, security, and open-source nature support tailored development environments and career-relevant skills.
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Linux Overview](topics/linux/linux_overview.md)  | Understanding the basic concepts of the Linux Operating System. |
  | [Linux Commands](topics/linux/linux_commands.md)  | Basic Linux terminal commands for file management, system monitoring, permissions, networking, package management and more.  |
  | [Linux Sudo](topics/linux/linux_sudo.md)  | A description of `sudo`, its main characteristics, and key concepts. |
@@ -71,7 +71,7 @@ Computer networking connects devices to share data via wired (Ethernet) or wirel
 Software engineers learn networking to build and maintain web apps, cloud services, or IoT systems. It helps optimize data transfer, secure communications, and troubleshoot issues like latency. Essential for backend, DevOps, and cybersecurity, networking knowledge supports scalable systems and boosts career growth in cloud-based industries.
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Networking Fundamentals](topics/networking/networking_fundamentals.md) | An overview  of networking fundamentals and the main concepts. |
  | [The OSI Model and Networking Layers](topics/networking/networking_osi_model.md) | Description of the OSI Model which is a conceptual framework to standardize and simplify network communication. |
  | [Protocols: The Language of Networks](topics/networking/networking_protocols.md) | Understanding the fundamental concepts in computer networking that enable devices to communicate over a network |
@@ -92,7 +92,7 @@ Computer security, or cybersecurity, is the practice of protecting computers, ne
 Software engineers learn cybersecurity to build secure applications, protect user data, and prevent vulnerabilities in code. It’s critical for designing APIs, securing cloud services, and mitigating risks like SQL injection or cross-site scripting. Understanding security helps engineers comply with regulations and maintain user trust, while expertise in this field is vital for careers in web development, DevOps, and system administration.
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Introduction to Network Security](topics/security/network_security_intro.md) | Introduces network security principles, the CIA triad, and its role in IT systems. |
  | [Common Network Threats and Vulnerabilities](topics/security/network_threats__vulnerabilities.md) | Explores prevalent threats like DDoS and vulnerabilities like misconfigurations. |
  | [Firewalls and Access Control](topics/security/network_firewalls_access_control.md) | Covers firewall types and configurations to regulate network traffic and access. |
@@ -111,7 +111,7 @@ Virtualization is the creation of virtual versions of computing resources, such 
 Software engineers learn virtualization to build and test applications in isolated, reproducible environments, like simulating different operating systems. It’s crucial for DevOps, cloud platforms (e.g., AWS, Azure), and containerization (e.g., Docker), optimizing resource use and scalability. Understanding virtualization enhances skills in system deployment and management, boosting career prospects in cloud-based and enterprise development.
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Introduction to Virtualization ](topics/virtualization/virtualization_introduction.md) | Introduces virtualization concepts, benefits, and its role in IT ecosystems. |
  | [Types of Virtualization ](topics/virtualization/virtualization_types.md) | Explores server, desktop, network, storage, and application virtualization use cases. |
  | [Hypervisors: The Core of Virtualization ](topics/virtualization/virtualization_hypervisors.md) | Explains Type 1 and Type 2 hypervisors and their role in managing VMs. |
@@ -200,7 +200,7 @@ Agile is a software development methodology that emphasizes iterative, flexible,
 Software engineers adopt Agile to enhance teamwork, adapt to changing requirements, and deliver high-quality code faster. It’s vital for managing complex projects, ensuring customer satisfaction, and aligning with business needs. Proficiency in Agile is essential for careers in software engineering, DevOps, and project management, fostering efficient and responsive development processes.
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Agile concepts](topics/agile/agile_concepts.md) | Comprehensive guide to Agile software development principles and practices. |
  | [Jira concepts](topics/agile/jira_concepts.md) | Comprehensive guide to Jira: features, workflows, and Agile usage in software engineering. |
 
@@ -231,7 +231,7 @@ Software development is the process of designing, coding, testing, and maintaini
 Software engineers learn software development to build functional, efficient, and user-friendly applications, such as web platforms or AI tools. It’s essential for creating scalable, secure software and collaborating on projects using version control like Git. Proficiency in software development is critical for careers in programming, DevOps, and tech innovation.
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Understanding Languages](resources/understanding_languages.md) | A brief description of the different types of of languages and what they are used for. |
  | TODO | |
 
@@ -265,7 +265,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
 ## Job Roles
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [SysAdmin](resources/sysadmin_role.md) | |
  | Devops | |
  | [SRE](resources/sre_role.md) | |
@@ -277,7 +277,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
 [home &uarr;](#nerd-nest)
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Meeting types](resources/meeting_types.md) | |
  | [Documentation types](doc_types/documentation-types.md) | A basic template with tips on how to write a proposal document. |
  | [Writing a Proposal Doc](resources/proposal_doc.md) | A basic template with tips on how to write a proposal document. |
@@ -292,7 +292,7 @@ Soft skills are non-technical abilities, like communication, teamwork, problem-s
 Software engineers develop soft skills to work effectively in Agile teams, communicate ideas clearly, and adapt to changing project demands. These skills are vital for collaborating on codebases, resolving conflicts, and delivering user-focused solutions. Mastering soft skills is essential for career growth in software engineering, leadership roles, and cross-functional tech projects.
 
  | Topic         | Description   |
- | :------------ | :-----------: |
+ | :------------ | :----------- |
  | [Soft-skills Overview](resources/understanding_soft_skills.md) | |
  | [Crucial Conversations](resources/crucial_conversations.md) | |
  | [Giving and Receiving Feedback](resources/giving_receiving_feedback.md) | |
