@@ -187,7 +187,7 @@ Git is a distributed version control system that tracks changes to code, allowin
 Software engineers use Git to manage codebases, coordinate team contributions, and maintain project history. It’s essential for collaborative development, CI/CD pipelines, and open-source projects, ensuring code integrity and streamlined workflows. Learning Git is critical for careers in software engineering, DevOps, and team-based development.
 
  | Topic         | Description   |
- | :------------ | :-----------: | 
+ | :------------ | :----------- | 
  | [Github Overview](topics/git/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
  | [Git Overview](topics/git/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
  | [Git Tutorial](topics/git/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
