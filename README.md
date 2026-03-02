@@ -9,7 +9,12 @@
 
 
 # Nerd Nest
-NerdNest is a comprehensive, open-source repository that provides tutorials, guides, and practical examples across key IT domains. The mission is to empower learners with the knowledge and skills needed to succeed in IT, from technical expertise to professional soft skills. Explore, learn, and contribute to build your IT nest!
+NerdNest is a comprehensive, open-source repository that provides tutorials, guides, and practical examples across key IT domains. The mission is to empower learners with the knowledge and skills needed to succeed in IT, from technical expertise to professional soft skills.
+
+**Attribution**  
+Significant parts of this repository's content were created with the assistance of Grok by xAI.  
+For more information visit https://grok.x.ai
+
 
 # Table of Contents
 
