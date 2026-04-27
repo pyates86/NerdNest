@@ -47,9 +47,9 @@ For more information visit https://grok.x.ai
 ## Linux
 [home &uarr;](#nerd-nest)
 
-**Linux** is more than an operating system; it is a programmable interface for hardware. Whether you are deploying to the cloud, managing a database, or running containers, Linux is the environment where your code actually lives.
-
-This section is designed to turn the command line into your primary productivity tool. We begin with a high-level **Introduction** to the Linux philosophy, then dive straight into **Essential Commands** and the **Vim editor**. Once the basics are second nature, we explore the deep technical mechanics—from **Bash One-Liners** and **Shell Scripting** to the inner workings of the **Linux Kernel**. This path is built to transform you from a user who "runs commands" into an engineer who orchestrates systems.
+> **Linux** is more than an operating system; it is a programmable interface for hardware. Whether you are deploying to the cloud, managing a database, or running containers, Linux is the environment where your code actually lives.
+>
+> This section is designed to turn the command line into your primary productivity tool. We begin with a high-level **Introduction** to the Linux philosophy, then dive straight into **Essential Commands** and the **Vim editor**. Once the basics are second nature, we explore the deep technical mechanics—from **Bash One-Liners** and **Shell Scripting** to the inner workings of the **Linux Kernel**. This path is built to transform you from a user who "runs commands" into an engineer who orchestrates systems.
 
 | Topic | Description |
 | :--- | :--- |
