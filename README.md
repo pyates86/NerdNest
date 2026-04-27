@@ -31,7 +31,8 @@ For more information visit https://grok.x.ai
   - [Automation](#automation)
   - [Development](#development)
   - [Tools/Applications](#tools/applications)
-  - [Artificial Intelligence & Machine Learning](#artificial-intelligence-and-machine-learning)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [AI Agents](#ai-agents)
 ## [Career Topics](#career-topics)
   - [Roles and Responsiblilities](#roles-and-responsiblilities)
   - [Meeting Types](#meeting-types)
@@ -239,28 +240,49 @@ Software engineers learn software development to build functional, efficient, an
 [home &uarr;](#nerd-nest)
  
 
-## Artificial Intelligence and Machine Learning
+## Artificial Intelligence
 [home &uarr;](#nerd-nest)
 
-Artificial Intelligence (AI) and Machine Learning (ML) involve creating systems that mimic human intelligence, with ML being a subset where systems learn from data to make predictions or decisions. AI encompasses techniques like neural networks, NLP, and computer vision, used in applications from chatbots to recommendation systems.
+Artificial Intelligence has evolved from a specialized academic discipline into a fundamental toolset for the modern software engineer. Rather than writing every line of logic manually, we now architect systems capable of understanding intent, processing vast amounts of unstructured data, and generating complex outputs through Large Language Models (LLMs).
 
-Software engineers use AI and ML to build intelligent features, such as predictive analytics or image recognition, in apps. They leverage tools like TensorFlow or scikit-learn to develop scalable, data-driven solutions. Mastering AI/ML is crucial for careers in software engineering, data science, and emerging fields like autonomous systems.
+This section provides a structured roadmap for engineers to master this new paradigm. We move beyond basic chat interfaces to explore the underlying architecture of Transformers, the precision of Prompt Engineering, and the integration of AI into the Software Development Lifecycle (SDLC). By bridging the gap between foundational theory and production-grade implementation—including RAG and secure API integration—you will learn how to build applications that are not just "smart," but robust, ethical, and scalable.
 
- | Topic | Description |
- | :---- | :---------- |
- | [AI Overview](topics/ai_ml/ai_overview.md) | A brief description of Artificial Intelligence, detailing key characteristics and concepts. |
- | [Basic Types of AI](topics/ai_ml/ai_types_overview.md) | A brief description of Artificial Intelligence types, detailing functionality. |
- | [AI and ML Basics](topics/ai_ml/ai_ml_basics.md) | Learn core AI/ML concepts like supervised learning and neural networks for predicting Kubernetes resource usage. |
- | [Python for AI](topics/ai_ml/python_for_ai.md) | Master Python with NumPy, pandas, and scikit-learn for scripting AI-driven SRE tools like log parsing. |
- | [Data Processing and Visualization](topics/ai_ml/data_processing_visualization.md) | Clean and visualize Kubernetes metrics for AI model training using matplotlib and seaborn. |
- | [Time Series Analysis](topics/ai_ml/time_series_analysis.md) | Forecast Kubernetes pod metrics like traffic spikes using Prophet and Prometheus integration. |
- | [Anomaly Detection](topics/ai_ml/anomaly_detection.md) | Detect Kubernetes cluster anomalies like pod crashes using ML models and Prometheus/Grafana. |
- | [Deep Learning Fundamentals](topics/ai_ml/deep_learning_fundamentals.md) | Build neural networks with TensorFlow/Keras for predictive maintenance in Kubernetes environments. |
- | [LLM and NLP for Ops](topics/ai_ml/llm_nlp_for_ops.md) | Automate SRE tasks like log analysis and runbook generation using LLMs and LangChain. |
- | [MLOps and KubeFlow](topics/ai_ml/mlops_kubeflow.md) | Deploy AI models for Kubernetes autoscaling using MLOps practices and KubeFlow pipelines. |
- | [Chaos Engineering with AI](topics/ai_ml/chaos_engineering_with_ai.md) | Enhance Kubernetes chaos testing with AI to predict and mitigate failure impacts. |
- | [Portfolio Projects](topics/ai_ml/portfolio_projects.md) | Showcase AI-SRE projects like autoscalers or anomaly detection bots for Kubernetes clusters. |
- | [AI Glossary](topics/ai_ml/ai_glossary.md) | A comprehensive yet beginner-friendly glossary of key AI terminology.          |
+| Topic | Description |
+| :--- | :--- |
+| [AI Fundamentals & Mental Models](topics/ai/01_ai_fundamentals.md) | Breaking down what AI actually is and moving past the "magic" to engineering reality. |
+| [How AI Works: The Architecture](topics/ai/02_how_ai_works.md) | Understanding Transformers, Neural Networks, and the math behind the predictions. |
+| [Prompt Engineering Mastery](topics/ai/03_prompt_engineering.md) | Techniques for structured prompting, including Few-Shot, System Roles, and Delimiters. |
+| [Advanced AI Workflows](topics/ai/04_advanced_workflows.md) | Moving beyond basic chat into complex reasoning and multi-step automation. |
+| [AI for Software Developers](topics/ai/05_ai_for_devs.md) | Practical integration of AI into the SDLC, from coding assistants to automated testing. |
+| [Data Basics for AI](topics/ai/06_data_basics.md) | Exploring the data lifecycle, tokenization, and how data quality affects AI output. |
+| [Machine Learning Fundamentals](topics/ai/07_machine_learning.md) | A deep dive into supervised, unsupervised, and reinforcement learning principles. |
+| [Deep Learning & Neural Networks](topics/ai/08_deep_learning.md) | Understanding layers, weights, and the biological inspiration for modern AI models. |
+| [Building with LLMs](topics/ai/09_building_with_llms.md) | How to build applications using APIs, RAG (Retrieval-Augmented Generation), and fine-tuning. |
+| [AI Ethics, Security & Trends](topics/ai/10_ethics_security.md) | Navigating the challenges of bias, security vulnerabilities, and future technology trends. |
+| [Extra Learning Resources](topics/ai/11_extra_resources.md) | A curated list of books, courses, and YouTube channels for continued mastery. |
+| [Core AI Glossary](topics/ai/12_glossary.md) | A comprehensive reference for essential terms from Backpropagation to Zero-Shot. |
+
+## AI Agents
+[home &uarr;](#nerd-nest)
+
+AI Agents represent the shift from AI as a chatbot to AI as an autonomous coworker. While standard models respond to prompts, Agentic Systems are designed to perceive their environment, reason through complex goals, and execute actions using external tools. This section moves beyond simple generation and into the world of autonomous architecture.
+
+You will explore the "Agentic Loop"—the cycle of sensing, deciding, and acting—that allows AI to solve multi-step engineering problems. By mastering persona design, multi-agent orchestration, and advanced reasoning patterns like ReAct, you will learn to build digital teams capable of self-correction and goal-oriented execution. This is the blueprint for the next generation of software: systems that don't just suggest code, but actively build, test, and maintain it.
+
+| Topic | Description |
+| :--- | :--- |
+| [The Anatomy of an Agent](topics/ai_agents/01_anatomy_of_agents.md) | Explores the fundamental loop of Sensors, Models, and Actuators within an Environment. |
+| [Types of Agent Structures](topics/ai_agents/02_agent_types.md) | Categorizes agents from Simple Reflex systems to sophisticated Learning Agents. |
+| [Persona Design & Guardrails](topics/ai_agents/03_persona_design.md) | How to define an agent's role, expertise, and boundaries to ensure consistent behavior. |
+| [Reasoning Patterns (CoT & ReAct)](topics/ai_agents/04_reasoning_patterns.md) | Deep dive into "thinking out loud" through Chain-of-Thought and Action-Observation loops. |
+| [Tool Use & Function Calling](topics/ai_agents/05_tool_calling.md) | Connecting AI reasoning to Virtual Actuators and APIs to affect the digital world. |
+| [Agent Memory Systems](topics/ai_agents/06_agent_memory.md) | Balancing Short-Term context windows with Long-Term storage using Vector Databases. |
+| [Reflection Loops & Self-Correction](topics/ai_agents/07_reflection_loops.md) | Implementing feedback mechanisms so agents can critique and improve their own output. |
+| [Multi-Agent Teams & Orchestration](topics/ai_agents/08_multi_agent_teams.md) | Coordinating specialized agents to work together using frameworks like CrewAI and AutoGen. |
+| [Agent Security & Guardrails](topics/ai_agents/09_agent_security.md) | Protecting infrastructure through sandboxing, least privilege, and Human-in-the-Loop patterns. |
+| [Capstone Project: Log-to-Fix Agent](topics/ai_agents/10_capstone_project.md) | A comprehensive project applying all concepts to build an autonomous SRE assistant. |
+| [Agentic AI Resources](topics/ai_agents/11_agent_resources.md) | A curated list of 2026's best frameworks, research papers, and learning materials. |
+| [Agentic AI Glossary](topics/ai_agents/12_agent_glossary.md) | Quick reference for specialized terminology from ReAct loops to Agentic Drift. |
 
 ## Job Roles
 
