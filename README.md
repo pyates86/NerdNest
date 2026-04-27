@@ -24,7 +24,7 @@ Significant parts of this repository's content were created with the assistance 
   - [Cloud Computing](#cloud-computing)
   - [Kubernetes](#kubernetes)
   - [Openshift](#openshift)
-  - [Git](#git)
+  - [Version Control & Collaboration](#version-control-and-collaboration)
   - [Agile](#agile)
   - [Automation](#automation)
   - [Development](#development)
@@ -183,18 +183,27 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [Understanding Openshift](docs/openshift_overview.md) |  |
 
 
-## Git
+## Version Control and Collaboration
 [home &uarr;](#nerd-nest)
 
-Git is a distributed version control system that tracks changes to code, allowing multiple developers to collaborate on projects. It stores code versions in repositories, enabling branching, merging, and rollback to manage updates efficiently, with platforms like GitHub or GitLab hosting remote repositories.
+**Git** is a distributed version control system that tracks every change made to a codebase, allowing multiple developers to collaborate seamlessly on the same project. By storing code versions in repositories, it enables branching, merging, and effortless rollbacks, while platforms like **GitHub** or **GitLab** host these repositories to facilitate global collaboration.
 
-Software engineers use Git to manage codebases, coordinate team contributions, and maintain project history. It’s essential for collaborative development, CI/CD pipelines, and open-source projects, ensuring code integrity and streamlined workflows. Learning Git is critical for careers in software engineering, DevOps, and team-based development.
+Software engineers use Git to manage complex codebases, coordinate team contributions, and maintain a verifiable project history. It is the backbone of modern development, essential for collaborative workflows, CI/CD pipelines, and open-source contributions. Mastering Git and collaboration platforms is a non-negotiable skill for careers in software engineering and team-based development.
 
- | Topic         | Description   |
- | :------------ | :----------- | 
- | [Github Overview](topics/git/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
- | [Git Overview](topics/git/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
- | [Git Tutorial](topics/git/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
+| Chapter | Topic | Description |
+| :--- | :--- | :--- |
+| **01** | [Foundations: Why Version Control?](topics/version_control/01_foundations.md) | Moving from manual file backups to a system that tracks every change you ever make. |
+| **02** | [Git Essentials: The Lifecycle](topics/version_control/02_git_lifecycle.md) | Mastering the transition between the Working Directory, Staging, and History. |
+| **03** | [Branching & Merging](topics/version_control/03_branching.md) | How to manage parallel development and resolve code conflicts safely. |
+| **04** | [Git "Time Travel" (Undo)](topics/version_control/04_undo.md) | Using `reset`, `revert`, and `checkout` to fix mistakes without losing work. |
+| **05** | [GitHub & Remote Work](topics/version_control/05_github_basics.md) | Connecting local code to the cloud via Push, Pull, and Fetch operations. |
+| **06** | [Collaborative Pull Requests](topics/version_control/06_pull_requests.md) | The industry-standard workflow for code reviews and team merges. |
+| **07** | [Open Source & Forking](topics/version_control/07_open_source.md) | How to contribute to projects you don't own using the Fork-and-Pull model. |
+| **08** | [Professional Workflows](topics/version_control/08_workflows.md) | Deep dive into Feature Branching and Trunk-Based Development. |
+| **09** | [Advanced Git (Rebase & Stash)](topics/version_control/09_advanced_git.md) | Cleaning up history with Rebase and managing temporary work with Stash. |
+| **10** | [GitHub Actions (CI/CD)](topics/version_control/10_actions.md) | Automating tests and deployments directly from your repository. |
+| **11** | [Additional Resources](topics/version_control/11_resources.md) | A curated list of Git visualizations, cheat sheets, and advanced tutorials. |
+| **12** | [VC & DevOps Glossary](topics/version_control/12_glossary.md) | Reference for terms like Head, Detached State, Origin, and Upstream. |
 
 ## Agile
 [home &uarr;](#nerd-nest)
