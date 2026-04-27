@@ -1,4 +1,4 @@
-# Chapter 12: Extended Glossary of AI Terms
+# Chapter 12: Glossary of AI Terms
 
 This glossary is categorized to help you navigate the different "languages" of AI, from data science to production deployment.
 
