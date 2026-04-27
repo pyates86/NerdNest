@@ -51,20 +51,20 @@ This section is designed to turn the command line into your primary productivity
 
 | Topic | Description |
 | :--- | :--- |
-| [Introduction to Linux](topics/linux/01_intro.md) | The history, philosophy, and why Linux is the backbone of modern engineering. |
-| [Essential Linux Commands](topics/linux/02_essential_commands.md) | Getting comfortable with the CLI: Navigating, reading, and moving files. |
-| [Mastering the Vim Editor](topics/linux/03_vim.md) | A practical guide to survival and efficiency in the world's most famous text editor. |
-| [Users, Permissions & Sudo](topics/linux/04_sudo_permissions.md) | Managing the security model, `root` access, and the `chmod/chown` system. |
-| [Pipes, Redirection & Streams](topics/linux/05_streams.md) | Learning the "Linux Way": Connecting small tools to solve big data problems. |
-| [Bash One-Liners for Efficiency](topics/linux/06_bash_oneliners.md) | A collection of lethal, single-line commands for logs, files, and system checks. |
-| [Shell Scripting Fundamentals](topics/linux/07_scripting.md) | Moving from commands to automation: Variables, loops, and conditional logic. |
-| [The Linux Kernel & Architecture](topics/linux/08_kernel.md) | Peeking under the hood at syscalls, memory management, and hardware abstraction. |
-| [Process Management](topics/linux/09_processes.md) | How the OS handles multitasking, signals, and monitoring system resources. |
-| [Networking & SSH](topics/linux/10_networking.md) | Understanding the stack, troubleshooting connectivity, and securing remote access. |
-| [Package & Service Management](topics/linux/11_packages_services.md) | How software is installed and managed as background services via `systemd`. |
-| [Linux Troubleshooting](topics/linux/12_troubleshooting.md) | Common error patterns, log analysis, and "first-response" recovery tactics. |
-| [Additional Resources](topics/linux/13_resources.md) | A curated list of Linux books, cheat sheets, and advanced interactive tutorials. |
-| [Linux Glossary](topics/linux/14_glossary.md) | A comprehensive reference for essential terms from Kernel Panic to Symbolic Links. |
+| **01** | [Introduction to Linux](topics/linux/01_intro.md) | The history, philosophy, and why Linux is the backbone of modern engineering. |
+| **02** | [Essential Linux Commands](topics/linux/02_essential_commands.md) | Getting comfortable with the CLI: Navigating, reading, and moving files. |
+| **03** | [Mastering the Vim Editor](topics/linux/03_vim.md) | A practical guide to survival and efficiency in the world's most famous text editor. |
+| **04** | [Users, Permissions & Sudo](topics/linux/04_sudo_permissions.md) | Managing the security model, `root` access, and the `chmod/chown` system. |
+| **05** | [Pipes, Redirection & Streams](topics/linux/05_streams.md) | Learning the "Linux Way": Connecting small tools to solve big data problems. |
+| **06** | [Bash One-Liners for Efficiency](topics/linux/06_bash_oneliners.md) | A collection of lethal, single-line commands for logs, files, and system checks. |
+| **07** | [Shell Scripting Fundamentals](topics/linux/07_scripting.md) | Moving from commands to automation: Variables, loops, and conditional logic. |
+| **08** | [The Linux Kernel & Architecture](topics/linux/08_kernel.md) | Peeking under the hood at syscalls, memory management, and hardware abstraction. |
+| **09** | [Process Management](topics/linux/09_processes.md) | How the OS handles multitasking, signals, and monitoring system resources. |
+| **10** | [Networking & SSH](topics/linux/10_networking.md) | Understanding the stack, troubleshooting connectivity, and securing remote access. |
+| **11** | [Package & Service Management](topics/linux/11_packages_services.md) | How software is installed and managed as background services via `systemd`. |
+| **12** | [Linux Troubleshooting](topics/linux/12_troubleshooting.md) | Common error patterns, log analysis, and "first-response" recovery tactics. |
+| **13** | [Additional Resources](topics/linux/13_resources.md) | A curated list of Linux books, cheat sheets, and advanced interactive tutorials. |
+| **14** | [Linux Glossary](topics/linux/14_glossary.md) | A comprehensive reference for essential terms from Kernel Panic to Symbolic Links. |
 
 
 ## Networking
