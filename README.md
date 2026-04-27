@@ -49,7 +49,7 @@ Significant parts of this repository's content were created with the assistance 
 
 This section is designed to turn the command line into your primary productivity tool. We begin with a high-level **Introduction** to the Linux philosophy, then dive straight into **Essential Commands** and the **Vim editor**. Once the basics are second nature, we explore the deep technical mechanics—from **Bash One-Liners** and **Shell Scripting** to the inner workings of the **Linux Kernel**. This path is built to transform you from a user who "runs commands" into an engineer who orchestrates systems.
 
-| Chapter | Topic | Description |
+| Ch. | Topic | Description |
 | :--- | :--- | :--- |
 | **01** | [Introduction to Linux](topics/linux/01_intro.md) | The history, philosophy, and why Linux is the backbone of modern engineering. |
 | **02** | [Essential Linux Commands](topics/linux/02_essential_commands.md) | Getting comfortable with the CLI: Navigating, reading, and moving files. |
