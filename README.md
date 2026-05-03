@@ -318,21 +318,30 @@ You will explore the "Agentic Loop"—the cycle of sensing, deciding, and acting
  | [SLA's, SLO's, and SLI's](resources/sla_slo_sli.md) | |
  | [Error Budget and Burn Rate](resources/error_budget_burn_rate.md) | A brief explination of Error Budgets and Burn Rates with examples. |
  
-## Soft-Skills
+## Soft Skills
 [home &uarr;](#nerd-nest)
 
 Soft skills are non-technical abilities, like communication, teamwork, problem-solving, and adaptability, that enhance interpersonal interactions and workplace effectiveness. In software engineering, they complement technical skills, enabling collaboration, project management, and client engagement in dynamic team settings.
 
 Software engineers develop soft skills to work effectively in Agile teams, communicate ideas clearly, and adapt to changing project demands. These skills are vital for collaborating on codebases, resolving conflicts, and delivering user-focused solutions. Mastering soft skills is essential for career growth in software engineering, leadership roles, and cross-functional tech projects.
 
- | Topic         | Description   |
- | :------------ | :----------- |
- | [Soft-skills Overview](resources/understanding_soft_skills.md) | |
- | [Crucial Conversations](resources/crucial_conversations.md) | |
- | [Giving and Receiving Feedback](resources/giving_receiving_feedback.md) | |
- | [Importance of Accountability](resources/importance_of_accountability.md) | |
- | [Driving Accountability](resources/driving_accountability.md) | |
- | [Understanding Unconscious Bias](resources/unconscious_bias.md) | |
+| Chapter | Topic | Description |
+| :--- | :--- | :--- |
+| **01** | [Soft Skills Overview](topics/soft_skills/01_overview.md) | Why "interpersonal APIs" are the secret to scaling your technical impact. |
+| **02** | [Crucial Conversations](topics/soft_skills/02_conversations.md) | Navigating high-stakes, emotional, or opposing opinions in the workplace. |
+| **03** | [Conflict Resolution](topics/soft_skills/03_conflict.md) | De-escalation techniques and strategies for finding "win-win" solutions. |
+| **04** | [Giving & Receiving Feedback](topics/soft_skills/04_feedback.md) | Building a culture where feedback is a gift, not an attack. |
+| **05** | [Importance of Accountability](topics/soft_skills/05_accountability_intro.md) | Why individual ownership is the foundation of a high-trust team. |
+| **06** | [Driving Accountability](topics/soft_skills/06_driving_accountability.md) | How to foster responsibility in others and lead from any position. |
+| **07** | [Understanding Unconscious Bias](topics/soft_skills/07_bias.md) | Identifying and mitigating hidden biases to build inclusive teams. |
+| **08** | [Deep Work & Productivity](topics/soft_skills/08_productivity.md) | Mastering "Maker Time" vs. "Manager Time" to avoid burnout. |
+| **09** | [The Art of Code Review](topics/soft_skills/09_reviews.md) | Using peer reviews as a tool for teaching, learning, and quality. |
+| **10** | [Technical Communication](topics/soft_skills/10_communication.md) | Translating complex logic into business value for stakeholders. |
+| **11** | [Mentorship & Leadership](topics/soft_skills/11_mentorship.md) | Scaling yourself by leveling up others and leading without authority. |
+| **12** | [Soft Skills Resources](topics/soft_skills/12_resources.md) | A curated list of books, podcasts, and frameworks for further growth. |
+| **13** | [The Soft Skills Glossary](topics/soft_skills/13_glossary.md) | Defining the jargon of professional development and workplace psychology. |
+
+---
 
 ## Book Recommendations
 
