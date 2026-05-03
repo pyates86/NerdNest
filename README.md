@@ -317,6 +317,27 @@ You will explore the "Agentic Loop"—the cycle of sensing, deciding, and acting
  | [Writing a Proposal Doc](resources/proposal_doc.md) | A basic template with tips on how to write a proposal document. |
  | [SLA's, SLO's, and SLI's](resources/sla_slo_sli.md) | |
  | [Error Budget and Burn Rate](resources/error_budget_burn_rate.md) | A brief explination of Error Budgets and Burn Rates with examples. |
+
+## Meetings
+[home &uarr;](#nerd-nest)
+
+In software engineering, a meeting is a **System Interrupt**. When poorly optimized, it causes massive context-switching overhead, fragments "Maker Time," and creates "Meeting Debt." However, when used correctly, a meeting is a high-bandwidth synchronization protocol—a way to resolve complex architectural blockers and align human nodes faster than any asynchronous tool could.
+
+This section treats meetings as a technical challenge. We move away from "talking for the sake of talking" and toward **Meeting Architecture**. You will learn to define the "Input/Output" specs for every session, choose the right "Protocol" (type of meeting) for the task at hand, and minimize "Latency" by ensuring every invite has a clear purpose. Mastering this section ensures that you spend less time in the "Waiting State" and more time in "Execution Mode," whether you are leading a Sprint Planning or participating in a high-stakes Architecture Review.
+
+| Chapter | Topic | Description |
+| :--- | :--- | :--- |
+| **01** | [The Meeting Protocol](topics/meetings/01_protocol.md) | Intro: Understanding the "Context Switch Tax" and the true value of human synchronization. |
+| **02** | [Anatomy of an Effective Meeting](topics/meetings/02_anatomy.md) | The "Specs" of a good meeting: Purpose, Agenda, Roles, and the "Definition of Done." |
+| **03** | [Project & Execution Meetings](topics/meetings/03_project.md) | High-frequency syncs: Stand-ups, Sprint Planning, Backlog Refinement, and Demos. |
+| **04** | [Team Health & Syncs](topics/meetings/04_team.md) | Cultural alignment: Retrospectives, Chapter/Guild syncs, and team-building protocols. |
+| **05** | [Managerial & Growth Meetings](topics/meetings/05_managerial.md) | The "Human 1:1": Performance reviews, career coaching, and feedback sessions. |
+| **06** | [Strategic & Leadership Meetings](topics/meetings/06_leadership.md) | Steering committees, OKR planning, and Architecture Review Boards (ARB). |
+| **07** | [Ad-hoc & High-Stakes Meetings](topics/meetings/07_adhoc.md) | Incident Post-mortems (RCAs), Brainstorming, and Conflict Resolution sessions. |
+| **08** | [Meeting Resources](topics/meetings/08_resources.md) | Templates, tools, and reading lists for mastering meeting facilitation. |
+| **09** | [The Meeting Glossary](topics/meetings/09_glossary.md) | Defining "Timeboxing," "The Parking Lot," "Rabbit Holing," and other meeting jargon. |
+
+---
  
 ## Soft Skills
 [home &uarr;](#nerd-nest)
