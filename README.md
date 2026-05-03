@@ -33,7 +33,7 @@ Significant parts of this repository's content were created with the assistance 
   - [AI Agents](#ai-agents)
 ## [Career Topics](#career-topics)
   - [Roles and Responsiblilities](#roles-and-responsiblilities)
-  - [Meeting Types](#meeting-types)
+  - [Meetings](#meetings)
   - [Soft-Skills](#soft-skills)
   - [Documentation](#documentation)
 ## [Useful Resources](#useful-resources)
