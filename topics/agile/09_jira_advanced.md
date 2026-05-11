@@ -62,4 +62,4 @@ Jira allows you to create personal and shared dashboards using "Gadgets." A high
 
 ---
 
-**Next Up:** We wrap up this section by providing the "API Documentation" for everything we've learned. In **Chapter 10: Agile Resources & Glossary**, you'll find the external links and the "Definitions" for all Agile terminology.
+**Next Up:** To finish this section, we move from internal tools to external growth. In **Chapter 10: Agile Resources**, you'll find the books, certifications, and communities to take your expertise further.
