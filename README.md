@@ -223,10 +223,10 @@ Software engineers adopt Agile to enhance teamwork, adapt to changing requiremen
 | **07** | [Technical Agile Practices](topics/agile/07_technical.md) | Engineering-specific Agile: TDD, Pair Programming, and CI/CD integration. |
 | **08** | [Jira Mastery for Devs](topics/agile/08_jira_basics.md) | Navigating boards, understanding ticket types, and utilizing JQL for filtering. |
 | **09** | [Advanced Jira & Reporting](topics/agile/09_jira_advanced.md) | Data-driven engineering: Burndown charts, Cumulative Flow, and Velocity reports. |
-| **10** | [Agile Resources & Glossary](topics/agile/10_resources_glossary.md) | A combined chapter for external learning paths and defining Agile terminology. |
+| **10** | [Agile Resources](topics/agile/10_resources.md) | External deep-dives, books, certifications, and communities for further growth. |
+| **11** | [Agile Glossary](topics/agile/11_glossary.md) | The definitive reference for Agile, Scrum, Kanban, and Jira terminology. |
 
 ---
- | [Jira concepts](topics/agile/jira_concepts.md) | Comprehensive guide to Jira: features, workflows, and Agile usage in software engineering. |
 
 ## Automation
 [home &uarr;](#nerd-nest)
