@@ -25,7 +25,7 @@ Significant parts of this repository's content were created with the assistance 
   - [Kubernetes](#kubernetes)
   - [Openshift](#openshift)
   - [Version Control & Collaboration](#version-control-and-collaboration)
-  - [Agile](#agile)
+  - [Agile Systems & Execution](#agile-systems-and-execution)
   - [Automation](#automation)
   - [Development](#development)
   - [Tools/Applications](#tools/applications)
@@ -205,7 +205,7 @@ Software engineers use Git to manage complex codebases, coordinate team contribu
 | **11** | [Additional Resources](topics/version_control/11_resources.md) | A curated list of Git visualizations, cheat sheets, and advanced tutorials. |
 | **12** | [VC & DevOps Glossary](topics/version_control/12_glossary.md) | Reference for terms like Head, Detached State, Origin, and Upstream. |
 
-## Agile
+## Agile Systems & Execution
 [home &uarr;](#nerd-nest)
 
 Agile is a software development methodology that emphasizes iterative, flexible, and collaborative approaches to building software. It uses short development cycles (sprints), frequent feedback, and adaptive planning, with frameworks like Scrum or Kanban, to deliver working software incrementally.
