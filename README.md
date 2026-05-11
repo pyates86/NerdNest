@@ -190,7 +190,7 @@ Software engineers learn cloud computing to build, deploy, and scale application
 
 Software engineers use Git to manage complex codebases, coordinate team contributions, and maintain a verifiable project history. It is the backbone of modern development, essential for collaborative workflows, CI/CD pipelines, and open-source contributions. Mastering Git and collaboration platforms is a non-negotiable skill for careers in software engineering and team-based development.
 
-| Chapter | Topic | Description |
+| Ch. | Topic | Description |
 | :--- | :--- | :--- |
 | **01** | [Foundations: Why Version Control?](topics/version_control/01_foundations.md) | Moving from manual file backups to a system that tracks every change you ever make. |
 | **02** | [Git Essentials: The Lifecycle](topics/version_control/02_git_lifecycle.md) | Mastering the transition between the Working Directory, Staging, and History. |
@@ -212,7 +212,7 @@ Agile is a software development methodology that emphasizes iterative, flexible,
 
 Software engineers adopt Agile to enhance teamwork, adapt to changing requirements, and deliver high-quality code faster. It’s vital for managing complex projects, ensuring customer satisfaction, and aligning with business needs. Proficiency in Agile is essential for careers in software engineering, DevOps, and project management, fostering efficient and responsive development processes.
 
-| Chapter | Topic | Description |
+| Ch. | Topic | Description |
 | :--- | :--- | :--- |
 | **01** | [The Agile Mindset](topics/agile/01_mindset.md) | The "Why" behind Agile: The Manifesto, 4 Core Values, and the 12 Principles. |
 | **02** | [Agile Mechanics & Characteristics](topics/agile/02_mechanics.md) | Core concepts: Iterations, Incremental progress, MVPs, and the Definition of Done (DoD). |
@@ -336,7 +336,7 @@ In software engineering, a meeting is a **System Interrupt**. When poorly optimi
 
 This section treats meetings as a technical challenge. We move away from "talking for the sake of talking" and toward **Meeting Architecture**. You will learn to define the "Input/Output" specs for every session, choose the right "Protocol" (type of meeting) for the task at hand, and minimize "Latency" by ensuring every invite has a clear purpose. Mastering this section ensures that you spend less time in the "Waiting State" and more time in "Execution Mode," whether you are leading a Sprint Planning or participating in a high-stakes Architecture Review.
 
-| Chapter | Topic | Description |
+| Ch. | Topic | Description |
 | :--- | :--- | :--- |
 | **01** | [The Meeting Protocol](topics/meetings/01_protocol.md) | Intro: Understanding the "Context Switch Tax" and the true value of human synchronization. |
 | **02** | [Anatomy of an Effective Meeting](topics/meetings/02_anatomy.md) | The "Specs" of a good meeting: Purpose, Agenda, Roles, and the "Definition of Done." |
@@ -357,7 +357,7 @@ Soft skills are non-technical abilities, like communication, teamwork, problem-s
 
 Software engineers develop soft skills to work effectively in Agile teams, communicate ideas clearly, and adapt to changing project demands. These skills are vital for collaborating on codebases, resolving conflicts, and delivering user-focused solutions. Mastering soft skills is essential for career growth in software engineering, leadership roles, and cross-functional tech projects.
 
-| Chapter | Topic | Description |
+| Ch. | Topic | Description |
 | :--- | :--- | :--- |
 | **01** | [Soft Skills Overview](topics/soft_skills/01_overview.md) | Why "interpersonal APIs" are the secret to scaling your technical impact. |
 | **02** | [Crucial Conversations](topics/soft_skills/02_conversations.md) | Navigating high-stakes, emotional, or opposing opinions in the workplace. |
