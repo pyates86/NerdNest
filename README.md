@@ -212,9 +212,20 @@ Agile is a software development methodology that emphasizes iterative, flexible,
 
 Software engineers adopt Agile to enhance teamwork, adapt to changing requirements, and deliver high-quality code faster. It’s vital for managing complex projects, ensuring customer satisfaction, and aligning with business needs. Proficiency in Agile is essential for careers in software engineering, DevOps, and project management, fostering efficient and responsive development processes.
 
- | Topic         | Description   |
- | :---- | :----------- |
- | [Agile concepts](topics/agile/agile_concepts.md) | Comprehensive guide to Agile software development principles and practices. |
+| Chapter | Topic | Description |
+| :--- | :--- | :--- |
+| **01** | [The Agile Mindset](topics/agile/01_mindset.md) | The "Why" behind Agile: The Manifesto, 4 Core Values, and the 12 Principles. |
+| **02** | [Agile Mechanics & Characteristics](topics/agile/02_mechanics.md) | Core concepts: Iterations, Incremental progress, MVPs, and the Definition of Done (DoD). |
+| **03** | [Scrum Framework](topics/agile/03_scrum.md) | Roles (PO, Scrum Master, Dev) and the structured ceremonies of the Scrum lifecycle. |
+| **04** | [Kanban & Flow](topics/agile/04_kanban.md) | Visualizing work, limiting Work in Progress (WIP), and managing continuous delivery. |
+| **05** | [User Stories & Requirements](topics/agile/05_stories.md) | Writing "INVEST" stories, Acceptance Criteria, and the perspective of the end user. |
+| **06** | [Estimation & Velocity](topics/agile/06_estimation.md) | Relative sizing, Planning Poker, and using Velocity to forecast delivery. |
+| **07** | [Technical Agile Practices](topics/agile/07_technical.md) | Engineering-specific Agile: TDD, Pair Programming, and CI/CD integration. |
+| **08** | [Jira Mastery for Devs](topics/agile/08_jira_basics.md) | Navigating boards, understanding ticket types, and utilizing JQL for filtering. |
+| **09** | [Advanced Jira & Reporting](topics/agile/09_jira_advanced.md) | Data-driven engineering: Burndown charts, Cumulative Flow, and Velocity reports. |
+| **10** | [Agile Resources & Glossary](topics/agile/10_resources_glossary.md) | A combined chapter for external learning paths and defining Agile terminology. |
+
+---
  | [Jira concepts](topics/agile/jira_concepts.md) | Comprehensive guide to Jira: features, workflows, and Agile usage in software engineering. |
 
 ## Automation
