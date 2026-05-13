@@ -307,6 +307,20 @@ You will explore the "Agentic Loop"—the cycle of sensing, deciding, and acting
 | [Agentic AI Resources](topics/ai_agents/11_agent_resources.md) | A curated list of 2026's best frameworks, research papers, and learning materials. |
 | [Agentic AI Glossary](topics/ai_agents/12_agent_glossary.md) | Quick reference for specialized terminology from ReAct loops to Agentic Drift. |
 
+## Section: Advanced AI Agent Patterns
+
+This section explores the transition from single-purpose LLM prompts to complex, autonomous **Multi-Agent Systems (MAS)**. As AI moves beyond simple chat interfaces, engineers must master the architectural patterns required to orchestrate multiple agents, manage shared state, and implement reliable tool-calling mechanisms. We cover the transition from simple reasoning to sophisticated centralized and decentralized hierarchies.
+
+| Ch. | Topic | Description |
+| :--- | :--- | :--- |
+| **01** | [Agentic Reasoning & Tool-Use](topics/advanced_agents/01_reasoning.md) | The mechanics of **Tool-Calling**, ReAct logic, and how agents interact with the real world. |
+| **02** | [Manager (Centralized) Pattern](topics/advanced_agents/02_manager.md) | Hierarchical orchestration: Using a "Manager Agent" for task delegation and synthesis. |
+| **03** | [Choreography (Decentralized) Pattern](topics/advanced_agents/03_decentralized.md) | Mesh and Chain architectures: How agents collaborate without a central controller. |
+| **04** | [State Management & Memory](topics/advanced_agents/04_memory.md) | Maintaining "Short-term" vs "Long-term" memory across multi-agent workflows. |
+| **05** | [Human-in-the-Loop (HITL)](topics/advanced_agents/05_hitl.md) | Implementing checkpoints for human approval and feedback in autonomous loops. |
+| **06** | [Multi-Agent Resources](topics/advanced_agents/06_resources.md) | Deep dives into frameworks like LangGraph, CrewAI, and AutoGen. |
+| **07** | [Multi-Agent Glossary](topics/advanced_agents/07_glossary.md) | A definitive reference for orchestration, handoffs, and agentic terminology. |
+
 ## Job Roles
 
  | Topic         | Description   |
