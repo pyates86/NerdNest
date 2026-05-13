@@ -41,6 +41,8 @@ Significant parts of this repository's content were created with the assistance 
   - [Book Recommendations](#book-recommendations)
   - [Other Useful Resources](#other-useful-resources)
 
+## TODO: Observability, Roles, Edge-Computing, Ansible, coding etc
+
 # Tech Topics
 
 ## Linux
