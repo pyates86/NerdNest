@@ -31,6 +31,7 @@ Significant parts of this repository's content were created with the assistance 
   - [Tools/Applications](#tools/applications)
   - [Artificial Intelligence](#artificial-intelligence)
   - [AI Agents](#ai-agents)
+  - [Advanced AI Agent Patterns](#advanced-ai-agent-patterns)
 ## [Career Topics](#career-topics)
   - [Roles and Responsiblilities](#roles-and-responsiblilities)
   - [Meetings](#meetings)
@@ -307,7 +308,7 @@ You will explore the "Agentic Loop"—the cycle of sensing, deciding, and acting
 | [Agentic AI Resources](topics/ai_agents/11_agent_resources.md) | A curated list of 2026's best frameworks, research papers, and learning materials. |
 | [Agentic AI Glossary](topics/ai_agents/12_agent_glossary.md) | Quick reference for specialized terminology from ReAct loops to Agentic Drift. |
 
-## Section: Advanced AI Agent Patterns
+## Advanced AI Agent Patterns
 
 This section explores the transition from single-purpose LLM prompts to complex, autonomous **Multi-Agent Systems (MAS)**. As AI moves beyond simple chat interfaces, engineers must master the architectural patterns required to orchestrate multiple agents, manage shared state, and implement reliable tool-calling mechanisms. We cover the transition from simple reasoning to sophisticated centralized and decentralized hierarchies.
 
