@@ -12,7 +12,7 @@
 NerdNest is a comprehensive, open-source repository that provides tutorials, guides, and practical examples across key IT domains. The mission is to empower learners with the knowledge and skills needed to succeed in IT, from technical expertise to professional soft skills.
 
 **Attribution**  
-Significant parts of this repository's content were created with the assistance of Gemini by Google, and Grok by xAI.  
+Significant parts of this repository's content were created with the assistance of Gemini by Google.  
 
 # Table of Contents
 
